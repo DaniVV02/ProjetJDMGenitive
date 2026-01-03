@@ -1,56 +1,55 @@
+from __future__ import annotations
+import json, time
+from pathlib import Path
+from typing import Dict, List
 import requests
-import json
-import os
-import time
+from tqdm import tqdm
+from .models import ApiCall, Node
 
-class JDMClient:
-    def __init__(self, cache_path="data/jdm_cache.json"):
-        self.cache_path = cache_path
-        self.api_url = "https://jdm-api.demo.lirmm.fr/schema" # URL de base
-        self.cache = self.load_cache()
+BASE = "https://jdm-api.demo.lirmm.fr/v0"
 
-    def load_cache(self):
-        if os.path.exists(self.cache_path):
-            with open(self.cache_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
+def fetch_relations_from(term: str) -> list[dict] | None:
+    url = f"{BASE}/relations/from/{term}"
+    r = requests.get(url, timeout=30)
+    r.raise_for_status()
+    return r.json().get("relations", [])
+
+def ensure_cache_file(cache_dir: Path, rel_id: int) -> ApiCall:
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    f = cache_dir / f"infos_by_name_{rel_id}.json"
+    if f.exists():
+        return ApiCall(**json.loads(f.read_text(encoding="utf-8")))
+    return ApiCall(id_relation=rel_id, relation_nodes={})
+
+def save_cache(cache_dir: Path, rel_id: int, api: ApiCall) -> None:
+    f = cache_dir / f"infos_by_name_{rel_id}.json"
+    f.write_text(api.model_dump_json(indent=2), encoding="utf-8")
+
+def build_signature(term: str, rel_id: int, cache_dir: Path) -> Dict[int, float]:
+    f = cache_dir / f"infos_by_name_{rel_id}.json"
+    if not f.exists():
         return {}
+    api = ApiCall(**json.loads(f.read_text(encoding="utf-8")))
+    nodes = api.relation_nodes.get(term, [])
+    return {n.node2: n.weight for n in nodes}
 
-    def save_cache(self):
-        with open(self.cache_path, 'w', encoding='utf-8') as f:
-            json.dump(self.cache, f, indent=4, ensure_ascii=False)
+def fetch_vocabulary(vocab_path: Path, cache_dir: Path, rel_id: int, delay: float = 0.4):
+    vocab = json.loads(vocab_path.read_text(encoding="utf-8"))
+    api = ensure_cache_file(cache_dir, rel_id)
 
-    def get_info(self, term):
-        """Récupère toutes les informations d'un terme (POS, relations, etc.)"""
-        if term in self.cache:
-            return self.cache[term]
-
-        print(f"--- Requête JDM pour : '{term}' ---")
-        # Note: Dans une vraie implémentation, on utilise l'endpoint spécifique
-        # Ici on simule l'appel à l'API JDM (adapté à leur structure)
+    for term in tqdm(vocab, desc=f"JDM rel={rel_id}"):
+        if term in api.relation_nodes:
+            continue
         try:
-            # On demande les relations sortantes du terme
-            params = {'term': term, 'relations': 'out'}
-            # Attention : adapte l'URL selon la doc exacte (ex: /node-light/)
-            # Pour l'exercice, on va structurer ce qu'on attend
-            response = requests.get(f"https://jdm-api.demo.lirmm.fr/node-light/{term}", timeout=5)
-            
-            if response.status_code == 200:
-                data = response.json()
-                self.cache[term] = data
-                self.save_cache()
-                return data
-        except Exception as e:
-            print(f"Erreur API JDM: {e}")
-        
-        return None
-
-    def get_pos(self, term):
-        """Extrait spécifiquement les natures grammaticales (relation r_pos / type 4)"""
-        data = self.get_info(term)
-        pos_found = []
-        if data and 'relations' in data:
-            for rel in data['relations']:
-                # Le type 4 dans JDM correspond souvent à r_pos
-                if rel['type'] == 4 or rel['type'] == "r_pos":
-                    pos_found.append(rel['node_dest'])
-        return pos_found
+            rels = fetch_relations_from(term)
+            filtered = [x for x in rels if x.get("type") == rel_id]
+            nodes: List[Node] = [
+                Node(id_node=x["id"], node1=x["node1"], node2=x["node2"], weight=float(x["w"]))
+                for x in sorted(filtered, key=lambda z: z["w"], reverse=True)
+            ]
+            api.relation_nodes[term] = nodes
+            save_cache(cache_dir, rel_id, api)
+            time.sleep(delay)
+        except Exception:
+            # si un terme foire, on passe au suivant (à toi d’améliorer les logs)
+            continue
