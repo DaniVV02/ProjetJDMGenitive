@@ -1,0 +1,887 @@
+{
+  "label": "r_product_of",
+  "data": {
+    "r_product_of_0": {
+      "termA": "portrait",
+      "termB": "van",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Portrait DE Van Gogh"
+    },
+    "r_product_of_1": {
+      "termA": "gâteau",
+      "termB": "pâtissier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Gâteau DU pâtissier"
+    },
+    "r_product_of_2": {
+      "termA": "livre",
+      "termB": "écrivain",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Livre DE l'écrivain"
+    },
+    "r_product_of_3": {
+      "termA": "chanson",
+      "termB": "compositeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Chanson DU compositeur"
+    },
+    "r_product_of_4": {
+      "termA": "sculpture",
+      "termB": "artiste",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Sculpture DE l'artiste"
+    },
+    "r_product_of_5": {
+      "termA": "film",
+      "termB": "cinéaste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Film DU cinéaste"
+    },
+    "r_product_of_6": {
+      "termA": "robe",
+      "termB": "couturière",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Robe DE la couturière"
+    },
+    "r_product_of_7": {
+      "termA": "table",
+      "termB": "menuisier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Table DU menuisier"
+    },
+    "r_product_of_8": {
+      "termA": "bijou",
+      "termB": "joaillier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Bijou DU joaillier"
+    },
+    "r_product_of_9": {
+      "termA": "poème",
+      "termB": "poète",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Poème DU poète"
+    },
+    "r_product_of_10": {
+      "termA": "peinture",
+      "termB": "picasso",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Peinture DE Picasso"
+    },
+    "r_product_of_11": {
+      "termA": "pain",
+      "termB": "boulanger",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Pain DU boulanger"
+    },
+    "r_product_of_12": {
+      "termA": "logiciel",
+      "termB": "programmeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Logiciel DU programmeur"
+    },
+    "r_product_of_13": {
+      "termA": "céramique",
+      "termB": "potier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Céramique DU potier"
+    },
+    "r_product_of_14": {
+      "termA": "meuble",
+      "termB": "ébéniste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Meuble DU ébéniste"
+    },
+    "r_product_of_15": {
+      "termA": "symphonie",
+      "termB": "musicien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Symphonie DU musicien"
+    },
+    "r_product_of_16": {
+      "termA": "roman",
+      "termB": "auteur",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Roman DE l'auteur"
+    },
+    "r_product_of_17": {
+      "termA": "dessin",
+      "termB": "graphiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Dessin DU graphiste"
+    },
+    "r_product_of_18": {
+      "termA": "parfum",
+      "termB": "parfumeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Parfum DU parfumeur"
+    },
+    "r_product_of_19": {
+      "termA": "vêtement",
+      "termB": "styliste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vêtement DU styliste"
+    },
+    "r_product_of_20": {
+      "termA": "statue",
+      "termB": "sculpteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Statue DU sculpteur"
+    },
+    "r_product_of_21": {
+      "termA": "application",
+      "termB": "développeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Application DU développeur"
+    },
+    "r_product_of_22": {
+      "termA": "tissu",
+      "termB": "tisserande",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Tissu DE la tisserande"
+    },
+    "r_product_of_23": {
+      "termA": "recette",
+      "termB": "chef",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Recette DU chef"
+    },
+    "r_product_of_24": {
+      "termA": "tableau",
+      "termB": "monet",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Tableau DE Monet"
+    },
+    "r_product_of_25": {
+      "termA": "chaise",
+      "termB": "designer",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Chaise DU designer"
+    },
+    "r_product_of_26": {
+      "termA": "film",
+      "termB": "réalisateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Film DU réalisateur"
+    },
+    "r_product_of_27": {
+      "termA": "broderie",
+      "termB": "artisan",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Broderie DE l'artisan"
+    },
+    "r_product_of_28": {
+      "termA": "vin",
+      "termB": "vigneron",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vin DU vigneron"
+    },
+    "r_product_of_29": {
+      "termA": "chanson",
+      "termB": "auteur",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Chanson DE l'auteur-compositeur"
+    },
+    "r_product_of_30": {
+      "termA": "bague",
+      "termB": "bijoutier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Bague DU bijoutier"
+    },
+    "r_product_of_31": {
+      "termA": "gâteau",
+      "termB": "pâtissière",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Gâteau DE la pâtissière"
+    },
+    "r_product_of_32": {
+      "termA": "poème",
+      "termB": "baudelaire",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Poème DE Baudelaire"
+    },
+    "r_product_of_33": {
+      "termA": "meuble",
+      "termB": "charpentier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Meuble DU charpentier"
+    },
+    "r_product_of_34": {
+      "termA": "illustration",
+      "termB": "dessinateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Illustration DU dessinateur"
+    },
+    "r_product_of_35": {
+      "termA": "parfum",
+      "termB": "créateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Parfum DU créateur"
+    },
+    "r_product_of_36": {
+      "termA": "robe",
+      "termB": "couturier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Robe DU couturier"
+    },
+    "r_product_of_37": {
+      "termA": "sculpture",
+      "termB": "rodin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Sculpture DE Rodin"
+    },
+    "r_product_of_38": {
+      "termA": "logiciel",
+      "termB": "ingénieur",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Logiciel DE l'ingénieur"
+    },
+    "r_product_of_39": {
+      "termA": "céramique",
+      "termB": "artisan",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Céramique DE l'artisan"
+    },
+    "r_product_of_40": {
+      "termA": "symphonie",
+      "termB": "beethoven",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Symphonie DE Beethoven"
+    },
+    "r_product_of_41": {
+      "termA": "roman",
+      "termB": "romancier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Roman DU romancier"
+    },
+    "r_product_of_42": {
+      "termA": "dessin",
+      "termB": "caricaturiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Dessin DU caricaturiste"
+    },
+    "r_product_of_43": {
+      "termA": "vin",
+      "termB": "producteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vin DU producteur"
+    },
+    "r_product_of_44": {
+      "termA": "tissu",
+      "termB": "tisserand",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Tissu DU tisserand"
+    },
+    "r_product_of_45": {
+      "termA": "recette",
+      "termB": "cuisinier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Recette DU cuisinier"
+    },
+    "r_product_of_46": {
+      "termA": "peinture",
+      "termB": "renoir",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Peinture DE Renoir"
+    },
+    "r_product_of_47": {
+      "termA": "chaise",
+      "termB": "fabricant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Chaise DU fabricant"
+    },
+    "r_product_of_48": {
+      "termA": "film",
+      "termB": "producteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Film DU producteur"
+    },
+    "r_product_of_49": {
+      "termA": "broderie",
+      "termB": "brodeuse",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Broderie DE la brodeuse"
+    },
+    "r_product_of_50": {
+      "termA": "bague",
+      "termB": "orfèvre",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Bague DE l'orfèvre"
+    },
+    "r_product_of_51": {
+      "termA": "gâteau",
+      "termB": "confiseur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Gâteau DU confiseur"
+    },
+    "r_product_of_52": {
+      "termA": "poème",
+      "termB": "versificateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Poème DU versificateur"
+    },
+    "r_product_of_53": {
+      "termA": "meuble",
+      "termB": "menuisier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Meuble DU menuisier"
+    },
+    "r_product_of_54": {
+      "termA": "illustration",
+      "termB": "artiste",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Illustration DE l'artiste"
+    },
+    "r_product_of_55": {
+      "termA": "parfum",
+      "termB": "chimiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Parfum DU chimiste"
+    },
+    "r_product_of_56": {
+      "termA": "vêtement",
+      "termB": "tailleur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vêtement DU tailleur"
+    },
+    "r_product_of_57": {
+      "termA": "statue",
+      "termB": "artisan",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Statue DE l'artisan"
+    },
+    "r_product_of_58": {
+      "termA": "application",
+      "termB": "codeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Application DU codeur"
+    },
+    "r_product_of_59": {
+      "termA": "tissu",
+      "termB": "artisane",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Tissu DE l'artisane"
+    },
+    "r_product_of_60": {
+      "termA": "recette",
+      "termB": "cuisinière",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Recette DE la cuisinière"
+    },
+    "r_product_of_61": {
+      "termA": "tableau",
+      "termB": "cézanne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Tableau DE Cézanne"
+    },
+    "r_product_of_62": {
+      "termA": "chaise",
+      "termB": "artisan",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Chaise DE l'artisan"
+    },
+    "r_product_of_63": {
+      "termA": "film",
+      "termB": "metteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Film DU metteur en scène"
+    },
+    "r_product_of_64": {
+      "termA": "broderie",
+      "termB": "couturier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Broderie DU couturier"
+    },
+    "r_product_of_65": {
+      "termA": "vin",
+      "termB": "viticulteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vin DU viticulteur"
+    },
+    "r_product_of_66": {
+      "termA": "chanson",
+      "termB": "parolier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Chanson DU parolier"
+    },
+    "r_product_of_67": {
+      "termA": "bague",
+      "termB": "créateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Bague DU créateur"
+    },
+    "r_product_of_68": {
+      "termA": "gâteau",
+      "termB": "boulanger",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Gâteau DU boulanger"
+    },
+    "r_product_of_69": {
+      "termA": "poème",
+      "termB": "verlaine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Poème DE Verlaine"
+    },
+    "r_product_of_70": {
+      "termA": "meuble",
+      "termB": "créateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Meuble DU créateur"
+    },
+    "r_product_of_71": {
+      "termA": "illustration",
+      "termB": "peintre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Illustration DU peintre"
+    },
+    "r_product_of_72": {
+      "termA": "parfum",
+      "termB": "maître",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Parfum DU maître parfumeur"
+    },
+    "r_product_of_73": {
+      "termA": "robe",
+      "termB": "modiste",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Robe DE la modiste"
+    },
+    "r_product_of_74": {
+      "termA": "sculpture",
+      "termB": "michel",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Sculpture DE Michel-Ange"
+    },
+    "r_product_of_75": {
+      "termA": "logiciel",
+      "termB": "concepteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Logiciel DU concepteur"
+    },
+    "r_product_of_76": {
+      "termA": "céramique",
+      "termB": "céramiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Céramique DU céramiste"
+    },
+    "r_product_of_77": {
+      "termA": "symphonie",
+      "termB": "compositeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Symphonie DU compositeur"
+    },
+    "r_product_of_78": {
+      "termA": "roman",
+      "termB": "écrivaine",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Roman DE l'écrivaine"
+    },
+    "r_product_of_79": {
+      "termA": "dessin",
+      "termB": "portraitiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Dessin DU portraitiste"
+    },
+    "r_product_of_80": {
+      "termA": "vin",
+      "termB": "œnologue",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Vin DE l'œnologue"
+    },
+    "r_product_of_81": {
+      "termA": "tissu",
+      "termB": "fabricant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Tissu DU fabricant"
+    },
+    "r_product_of_82": {
+      "termA": "recette",
+      "termB": "gastronome",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Recette DU gastronome"
+    },
+    "r_product_of_83": {
+      "termA": "peinture",
+      "termB": "degas",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Peinture DE Degas"
+    },
+    "r_product_of_84": {
+      "termA": "chaise",
+      "termB": "tapissier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Chaise DU tapissier"
+    },
+    "r_product_of_85": {
+      "termA": "film",
+      "termB": "scénariste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Film DU scénariste"
+    },
+    "r_product_of_86": {
+      "termA": "broderie",
+      "termB": "ouvrière",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Broderie DE l'ouvrière"
+    },
+    "r_product_of_87": {
+      "termA": "bague",
+      "termB": "joaillier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Bague DU joaillier"
+    },
+    "r_product_of_88": {
+      "termA": "gâteau",
+      "termB": "artisan",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Gâteau DE l'artisan"
+    },
+    "r_product_of_89": {
+      "termA": "poème",
+      "termB": "littérateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Poème DU littérateur"
+    },
+    "r_product_of_90": {
+      "termA": "meuble",
+      "termB": "constructeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Meuble DU constructeur"
+    },
+    "r_product_of_91": {
+      "termA": "illustration",
+      "termB": "graveur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Illustration DU graveur"
+    },
+    "r_product_of_92": {
+      "termA": "parfum",
+      "termB": "formulateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Parfum DU formulateur"
+    },
+    "r_product_of_93": {
+      "termA": "vêtement",
+      "termB": "confectionneur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Vêtement DU confectionneur"
+    },
+    "r_product_of_94": {
+      "termA": "statue",
+      "termB": "modeleur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Statue DU modeleur"
+    },
+    "r_product_of_95": {
+      "termA": "application",
+      "termB": "programmeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Application DU programmeur"
+    },
+    "r_product_of_96": {
+      "termA": "tissu",
+      "termB": "fileuse",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_product_of",
+      "raw": "Tissu DE la fileuse"
+    },
+    "r_product_of_97": {
+      "termA": "recette",
+      "termB": "traiteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_product_of",
+      "raw": "Recette DU traiteur"
+    }
+  }
+}

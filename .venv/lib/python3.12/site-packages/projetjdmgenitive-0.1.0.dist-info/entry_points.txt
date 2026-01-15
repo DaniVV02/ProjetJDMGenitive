@@ -1,0 +1,2 @@
+[console_scripts]
+ProjetJDMGenitive = ProjetJDMGenitive.cli:app

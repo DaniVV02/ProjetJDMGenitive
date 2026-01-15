@@ -1,0 +1,896 @@
+{
+  "label": "r_social_tie",
+  "data": {
+    "r_social_tie_0": {
+      "termA": "avocat",
+      "termB": "femme",
+      "preposition": "d'",
+      "determinant": "une",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat D'une femme battue"
+    },
+    "r_social_tie_1": {
+      "termA": "chef",
+      "termB": "groupe",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Chef DU groupe"
+    },
+    "r_social_tie_2": {
+      "termA": "médecin",
+      "termB": "patient",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Médecin DU patient"
+    },
+    "r_social_tie_3": {
+      "termA": "enseignant",
+      "termB": "élèves",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Enseignant DES élèves"
+    },
+    "r_social_tie_4": {
+      "termA": "parent",
+      "termB": "enfant",
+      "preposition": "d'",
+      "determinant": "un",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Parent D'un enfant"
+    },
+    "r_social_tie_5": {
+      "termA": "ami",
+      "termB": "ami",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Ami DE l'ami"
+    },
+    "r_social_tie_6": {
+      "termA": "patron",
+      "termB": "employé",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Patron DE l'employé"
+    },
+    "r_social_tie_7": {
+      "termA": "capitaine",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Capitaine DE l'équipe"
+    },
+    "r_social_tie_8": {
+      "termA": "avocat",
+      "termB": "prévenu",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DU prévenu"
+    },
+    "r_social_tie_9": {
+      "termA": "mentor",
+      "termB": "stagiaire",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Mentor DU stagiaire"
+    },
+    "r_social_tie_10": {
+      "termA": "infirmier",
+      "termB": "malade",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Infirmier DU malade"
+    },
+    "r_social_tie_11": {
+      "termA": "leader",
+      "termB": "mouvement",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Leader DU mouvement"
+    },
+    "r_social_tie_12": {
+      "termA": "frère",
+      "termB": "sœur",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Frère DE la sœur"
+    },
+    "r_social_tie_13": {
+      "termA": "mère",
+      "termB": "bébé",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Mère DU bébé"
+    },
+    "r_social_tie_14": {
+      "termA": "coach",
+      "termB": "athlètes",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Coach DES athlètes"
+    },
+    "r_social_tie_15": {
+      "termA": "directeur",
+      "termB": "entreprise",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Directeur DE l'entreprise"
+    },
+    "r_social_tie_16": {
+      "termA": "avocat",
+      "termB": "accusé",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DE l'accusé"
+    },
+    "r_social_tie_17": {
+      "termA": "conseiller",
+      "termB": "client",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Conseiller DU client"
+    },
+    "r_social_tie_18": {
+      "termA": "juge",
+      "termB": "audience",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Juge DE l'audience"
+    },
+    "r_social_tie_19": {
+      "termA": "capitaine",
+      "termB": "navire",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Capitaine DU navire"
+    },
+    "r_social_tie_20": {
+      "termA": "professeur",
+      "termB": "étudiants",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Professeur DES étudiants"
+    },
+    "r_social_tie_21": {
+      "termA": "manager",
+      "termB": "projet",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Manager DU projet"
+    },
+    "r_social_tie_22": {
+      "termA": "tuteur",
+      "termB": "mineur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Tuteur DU mineur"
+    },
+    "r_social_tie_23": {
+      "termA": "époux",
+      "termB": "épouse",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Époux DE l'épouse"
+    },
+    "r_social_tie_24": {
+      "termA": "guide",
+      "termB": "touriste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Guide DU touriste"
+    },
+    "r_social_tie_25": {
+      "termA": "médecin",
+      "termB": "famille",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Médecin DE famille"
+    },
+    "r_social_tie_26": {
+      "termA": "prêtre",
+      "termB": "paroisse",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Prêtre DE la paroisse"
+    },
+    "r_social_tie_27": {
+      "termA": "ami",
+      "termB": "voisin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Ami DU voisin"
+    },
+    "r_social_tie_28": {
+      "termA": "superviseur",
+      "termB": "ouvriers",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Superviseur DES ouvriers"
+    },
+    "r_social_tie_29": {
+      "termA": "entraîneur",
+      "termB": "joueur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Entraîneur DU joueur"
+    },
+    "r_social_tie_30": {
+      "termA": "président",
+      "termB": "comité",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Président DU comité"
+    },
+    "r_social_tie_31": {
+      "termA": "avocat",
+      "termB": "plaignant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DU plaignant"
+    },
+    "r_social_tie_32": {
+      "termA": "mentor",
+      "termB": "apprenti",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Mentor DE l'apprenti"
+    },
+    "r_social_tie_33": {
+      "termA": "infirmière",
+      "termB": "patient",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Infirmière DU patient"
+    },
+    "r_social_tie_34": {
+      "termA": "leader",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Leader DE l'équipe"
+    },
+    "r_social_tie_35": {
+      "termA": "sœur",
+      "termB": "frère",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Sœur DU frère"
+    },
+    "r_social_tie_36": {
+      "termA": "père",
+      "termB": "enfant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Père DE l'enfant"
+    },
+    "r_social_tie_37": {
+      "termA": "coach",
+      "termB": "coureur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Coach DU coureur"
+    },
+    "r_social_tie_38": {
+      "termA": "directeur",
+      "termB": "département",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Directeur DU département"
+    },
+    "r_social_tie_39": {
+      "termA": "avocat",
+      "termB": "victime",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DE la victime"
+    },
+    "r_social_tie_40": {
+      "termA": "conseiller",
+      "termB": "président",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Conseiller DU président"
+    },
+    "r_social_tie_41": {
+      "termA": "juge",
+      "termB": "tribunal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Juge DU tribunal"
+    },
+    "r_social_tie_42": {
+      "termA": "capitaine",
+      "termB": "avion",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Capitaine DE l'avion"
+    },
+    "r_social_tie_43": {
+      "termA": "professeur",
+      "termB": "école",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Professeur DE l'école"
+    },
+    "r_social_tie_44": {
+      "termA": "manager",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Manager DE l'équipe"
+    },
+    "r_social_tie_45": {
+      "termA": "tuteur",
+      "termB": "étudiant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Tuteur DE l'étudiant"
+    },
+    "r_social_tie_46": {
+      "termA": "épouse",
+      "termB": "mari",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Épouse DU mari"
+    },
+    "r_social_tie_47": {
+      "termA": "guide",
+      "termB": "randonneurs",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Guide DES randonneurs"
+    },
+    "r_social_tie_48": {
+      "termA": "médecin",
+      "termB": "village",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Médecin DU village"
+    },
+    "r_social_tie_49": {
+      "termA": "prêtre",
+      "termB": "diocèse",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Prêtre DU diocèse"
+    },
+    "r_social_tie_50": {
+      "termA": "ami",
+      "termB": "enfance",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Ami DE l'ami d'enfance"
+    },
+    "r_social_tie_51": {
+      "termA": "superviseur",
+      "termB": "chantier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Superviseur DU chantier"
+    },
+    "r_social_tie_52": {
+      "termA": "entraîneur",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Entraîneur DE l'équipe"
+    },
+    "r_social_tie_53": {
+      "termA": "président",
+      "termB": "association",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Président DE l'association"
+    },
+    "r_social_tie_54": {
+      "termA": "avocat",
+      "termB": "justiciable",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DU justiciable"
+    },
+    "r_social_tie_55": {
+      "termA": "mentor",
+      "termB": "jeune",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Mentor DU jeune"
+    },
+    "r_social_tie_56": {
+      "termA": "infirmier",
+      "termB": "hôpital",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Infirmier DE l'hôpital"
+    },
+    "r_social_tie_57": {
+      "termA": "leader",
+      "termB": "parti",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Leader DU parti"
+    },
+    "r_social_tie_58": {
+      "termA": "frère",
+      "termB": "cadet",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Frère DU cadet"
+    },
+    "r_social_tie_59": {
+      "termA": "mère",
+      "termB": "adolescent",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Mère DE l'adolescent"
+    },
+    "r_social_tie_60": {
+      "termA": "coach",
+      "termB": "gymnaste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Coach DU gymnaste"
+    },
+    "r_social_tie_61": {
+      "termA": "directeur",
+      "termB": "école",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Directeur DE l'école"
+    },
+    "r_social_tie_62": {
+      "termA": "avocat",
+      "termB": "entreprise",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DE l'entreprise"
+    },
+    "r_social_tie_63": {
+      "termA": "conseiller",
+      "termB": "maire",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Conseiller DU maire"
+    },
+    "r_social_tie_64": {
+      "termA": "juge",
+      "termB": "cour",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Juge DE la cour"
+    },
+    "r_social_tie_65": {
+      "termA": "capitaine",
+      "termB": "bateau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Capitaine DU bateau"
+    },
+    "r_social_tie_66": {
+      "termA": "professeur",
+      "termB": "université",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Professeur DE l'université"
+    },
+    "r_social_tie_67": {
+      "termA": "manager",
+      "termB": "magasin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Manager DU magasin"
+    },
+    "r_social_tie_68": {
+      "termA": "tuteur",
+      "termB": "lycéen",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Tuteur DU lycéen"
+    },
+    "r_social_tie_69": {
+      "termA": "époux",
+      "termB": "femme",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Époux DE la femme"
+    },
+    "r_social_tie_70": {
+      "termA": "guide",
+      "termB": "groupe",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Guide DU groupe"
+    },
+    "r_social_tie_71": {
+      "termA": "médecin",
+      "termB": "enfant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Médecin DE l'enfant"
+    },
+    "r_social_tie_72": {
+      "termA": "prêtre",
+      "termB": "église",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Prêtre DE l'église"
+    },
+    "r_social_tie_73": {
+      "termA": "ami",
+      "termB": "collègue",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Ami DU collègue"
+    },
+    "r_social_tie_74": {
+      "termA": "superviseur",
+      "termB": "atelier",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Superviseur DE l'atelier"
+    },
+    "r_social_tie_75": {
+      "termA": "entraîneur",
+      "termB": "boxeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Entraîneur DU boxeur"
+    },
+    "r_social_tie_76": {
+      "termA": "président",
+      "termB": "conseil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Président DU conseil"
+    },
+    "r_social_tie_77": {
+      "termA": "avocat",
+      "termB": "citoyen",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DU citoyen"
+    },
+    "r_social_tie_78": {
+      "termA": "mentor",
+      "termB": "novice",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Mentor DU novice"
+    },
+    "r_social_tie_79": {
+      "termA": "infirmière",
+      "termB": "clinique",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Infirmière DE la clinique"
+    },
+    "r_social_tie_80": {
+      "termA": "leader",
+      "termB": "projet",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Leader DU projet"
+    },
+    "r_social_tie_81": {
+      "termA": "sœur",
+      "termB": "aînée",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Sœur DE l'aînée"
+    },
+    "r_social_tie_82": {
+      "termA": "père",
+      "termB": "bébé",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Père DU bébé"
+    },
+    "r_social_tie_83": {
+      "termA": "coach",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Coach DE l'équipe"
+    },
+    "r_social_tie_84": {
+      "termA": "directeur",
+      "termB": "musée",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Directeur DU musée"
+    },
+    "r_social_tie_85": {
+      "termA": "avocat",
+      "termB": "client",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Avocat DU client"
+    },
+    "r_social_tie_86": {
+      "termA": "conseiller",
+      "termB": "étudiant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Conseiller DE l'étudiant"
+    },
+    "r_social_tie_87": {
+      "termA": "juge",
+      "termB": "procès",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Juge DU procès"
+    },
+    "r_social_tie_88": {
+      "termA": "capitaine",
+      "termB": "escouade",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Capitaine DE l'escouade"
+    },
+    "r_social_tie_89": {
+      "termA": "professeur",
+      "termB": "collège",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Professeur DU collège"
+    },
+    "r_social_tie_90": {
+      "termA": "manager",
+      "termB": "boutique",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Manager DE la boutique"
+    },
+    "r_social_tie_91": {
+      "termA": "tuteur",
+      "termB": "apprenant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Tuteur DE l'apprenant"
+    },
+    "r_social_tie_92": {
+      "termA": "épouse",
+      "termB": "conjoint",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Épouse DU conjoint"
+    },
+    "r_social_tie_93": {
+      "termA": "guide",
+      "termB": "visiteurs",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Guide DES visiteurs"
+    },
+    "r_social_tie_94": {
+      "termA": "médecin",
+      "termB": "adulte",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Médecin DE l'adulte"
+    },
+    "r_social_tie_95": {
+      "termA": "prêtre",
+      "termB": "monastère",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Prêtre DU monastère"
+    },
+    "r_social_tie_96": {
+      "termA": "ami",
+      "termB": "camarade",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Ami DU camarade"
+    },
+    "r_social_tie_97": {
+      "termA": "superviseur",
+      "termB": "équipe",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_social_tie",
+      "raw": "Superviseur DE l'équipe"
+    },
+    "r_social_tie_98": {
+      "termA": "entraîneur",
+      "termB": "nageur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_social_tie",
+      "raw": "Entraîneur DU nageur"
+    }
+  }
+}

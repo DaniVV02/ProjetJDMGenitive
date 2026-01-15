@@ -1,0 +1,887 @@
+{
+  "label": "r_topic",
+  "data": {
+    "r_topic_0": {
+      "termA": "restaurant",
+      "termB": "sushis",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Restaurant DE sushis"
+    },
+    "r_topic_1": {
+      "termA": "reportage",
+      "termB": "enquête",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Reportage D'enquête"
+    },
+    "r_topic_2": {
+      "termA": "livre",
+      "termB": "science",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre DE science-fiction"
+    },
+    "r_topic_3": {
+      "termA": "film",
+      "termB": "aventure",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film D'aventure"
+    },
+    "r_topic_4": {
+      "termA": "émission",
+      "termB": "cuisine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE cuisine"
+    },
+    "r_topic_5": {
+      "termA": "article",
+      "termB": "politique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article DE politique"
+    },
+    "r_topic_6": {
+      "termA": "conférence",
+      "termB": "écologie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence D'écologie"
+    },
+    "r_topic_7": {
+      "termA": "magazine",
+      "termB": "mode",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine DE mode"
+    },
+    "r_topic_8": {
+      "termA": "documentaire",
+      "termB": "nature",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire DE nature"
+    },
+    "r_topic_9": {
+      "termA": "cours",
+      "termB": "mathématiques",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE mathématiques"
+    },
+    "r_topic_10": {
+      "termA": "podcast",
+      "termB": "histoire",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast D'histoire"
+    },
+    "r_topic_11": {
+      "termA": "exposition",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Exposition DE peinture"
+    },
+    "r_topic_12": {
+      "termA": "spectacle",
+      "termB": "danse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Spectacle DE danse"
+    },
+    "r_topic_13": {
+      "termA": "blog",
+      "termB": "voyage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Blog DE voyage"
+    },
+    "r_topic_14": {
+      "termA": "atelier",
+      "termB": "poterie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier DE poterie"
+    },
+    "r_topic_15": {
+      "termA": "série",
+      "termB": "enquêtes",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série D'enquêtes criminelles"
+    },
+    "r_topic_16": {
+      "termA": "journal",
+      "termB": "sport",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal DE sport"
+    },
+    "r_topic_17": {
+      "termA": "chanson",
+      "termB": "amour",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson D'amour"
+    },
+    "r_topic_18": {
+      "termA": "séminaire",
+      "termB": "innovation",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire D'innovation"
+    },
+    "r_topic_19": {
+      "termA": "événement",
+      "termB": "charité",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Événement DE charité"
+    },
+    "r_topic_20": {
+      "termA": "cours",
+      "termB": "yoga",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE yoga"
+    },
+    "r_topic_21": {
+      "termA": "film",
+      "termB": "science",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film DE science"
+    },
+    "r_topic_22": {
+      "termA": "livre",
+      "termB": "philosophie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre DE philosophie"
+    },
+    "r_topic_23": {
+      "termA": "conférence",
+      "termB": "technologie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence DE technologie"
+    },
+    "r_topic_24": {
+      "termA": "émission",
+      "termB": "santé",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE santé"
+    },
+    "r_topic_25": {
+      "termA": "article",
+      "termB": "culture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article DE culture"
+    },
+    "r_topic_26": {
+      "termA": "exposition",
+      "termB": "photographie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Exposition DE photographie"
+    },
+    "r_topic_27": {
+      "termA": "podcast",
+      "termB": "littérature",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast DE littérature"
+    },
+    "r_topic_28": {
+      "termA": "magazine",
+      "termB": "design",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine DE design"
+    },
+    "r_topic_29": {
+      "termA": "documentaire",
+      "termB": "guerre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire DE guerre"
+    },
+    "r_topic_30": {
+      "termA": "atelier",
+      "termB": "écriture",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier D'écriture"
+    },
+    "r_topic_31": {
+      "termA": "série",
+      "termB": "fantasy",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série DE fantasy"
+    },
+    "r_topic_32": {
+      "termA": "journal",
+      "termB": "économie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal D'économie"
+    },
+    "r_topic_33": {
+      "termA": "chanson",
+      "termB": "protestation",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson DE protestation"
+    },
+    "r_topic_34": {
+      "termA": "séminaire",
+      "termB": "marketing",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire DE marketing"
+    },
+    "r_topic_35": {
+      "termA": "événement",
+      "termB": "musique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Événement DE musique"
+    },
+    "r_topic_36": {
+      "termA": "cours",
+      "termB": "langue",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE langue"
+    },
+    "r_topic_37": {
+      "termA": "film",
+      "termB": "histoire",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film D'histoire"
+    },
+    "r_topic_38": {
+      "termA": "livre",
+      "termB": "poésie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre DE poésie"
+    },
+    "r_topic_39": {
+      "termA": "conférence",
+      "termB": "intelligence",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence D'intelligence artificielle"
+    },
+    "r_topic_40": {
+      "termA": "émission",
+      "termB": "jardinage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE jardinage"
+    },
+    "r_topic_41": {
+      "termA": "article",
+      "termB": "éducation",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article D'éducation"
+    },
+    "r_topic_42": {
+      "termA": "exposition",
+      "termB": "sculptures",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Exposition DE sculptures"
+    },
+    "r_topic_43": {
+      "termA": "podcast",
+      "termB": "sciences",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast DE sciences"
+    },
+    "r_topic_44": {
+      "termA": "magazine",
+      "termB": "gastronomie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine DE gastronomie"
+    },
+    "r_topic_45": {
+      "termA": "documentaire",
+      "termB": "animaux",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire D'animaux"
+    },
+    "r_topic_46": {
+      "termA": "atelier",
+      "termB": "cuisine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier DE cuisine"
+    },
+    "r_topic_47": {
+      "termA": "série",
+      "termB": "politique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série DE politique"
+    },
+    "r_topic_48": {
+      "termA": "journal",
+      "termB": "technologie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal DE technologie"
+    },
+    "r_topic_49": {
+      "termA": "chanson",
+      "termB": "liberté",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson DE liberté"
+    },
+    "r_topic_50": {
+      "termA": "séminaire",
+      "termB": "leadership",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire DE leadership"
+    },
+    "r_topic_51": {
+      "termA": "événement",
+      "termB": "danse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Événement DE danse"
+    },
+    "r_topic_52": {
+      "termA": "cours",
+      "termB": "musique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE musique"
+    },
+    "r_topic_53": {
+      "termA": "film",
+      "termB": "comédie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film DE comédie"
+    },
+    "r_topic_54": {
+      "termA": "livre",
+      "termB": "astronomie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre D'astronomie"
+    },
+    "r_topic_55": {
+      "termA": "conférence",
+      "termB": "médecine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence DE médecine"
+    },
+    "r_topic_56": {
+      "termA": "émission",
+      "termB": "voyages",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE voyages"
+    },
+    "r_topic_57": {
+      "termA": "article",
+      "termB": "sport",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article DE sport"
+    },
+    "r_topic_59": {
+      "termA": "podcast",
+      "termB": "philosophie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast DE philosophie"
+    },
+    "r_topic_60": {
+      "termA": "magazine",
+      "termB": "architecture",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine D'architecture"
+    },
+    "r_topic_61": {
+      "termA": "documentaire",
+      "termB": "environnement",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire D'environnement"
+    },
+    "r_topic_62": {
+      "termA": "atelier",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier DE peinture"
+    },
+    "r_topic_63": {
+      "termA": "série",
+      "termB": "super",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série DE super-héros"
+    },
+    "r_topic_64": {
+      "termA": "journal",
+      "termB": "finance",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal DE finance"
+    },
+    "r_topic_65": {
+      "termA": "chanson",
+      "termB": "paix",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson DE paix"
+    },
+    "r_topic_66": {
+      "termA": "séminaire",
+      "termB": "entrepreneuriat",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire D'entrepreneuriat"
+    },
+    "r_topic_67": {
+      "termA": "événement",
+      "termB": "cinéma",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Événement DE cinéma"
+    },
+    "r_topic_68": {
+      "termA": "cours",
+      "termB": "photographie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE photographie"
+    },
+    "r_topic_69": {
+      "termA": "film",
+      "termB": "romance",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film DE romance"
+    },
+    "r_topic_70": {
+      "termA": "livre",
+      "termB": "cuisine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre DE cuisine"
+    },
+    "r_topic_71": {
+      "termA": "conférence",
+      "termB": "biologie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence DE biologie"
+    },
+    "r_topic_72": {
+      "termA": "émission",
+      "termB": "mode",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE mode"
+    },
+    "r_topic_73": {
+      "termA": "article",
+      "termB": "innovation",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article D'innovation"
+    },
+    "r_topic_74": {
+      "termA": "exposition",
+      "termB": "design",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Exposition DE design"
+    },
+    "r_topic_75": {
+      "termA": "podcast",
+      "termB": "économie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast D'économie"
+    },
+    "r_topic_76": {
+      "termA": "magazine",
+      "termB": "voyage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine DE voyage"
+    },
+    "r_topic_77": {
+      "termA": "documentaire",
+      "termB": "histoire",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire D'histoire"
+    },
+    "r_topic_78": {
+      "termA": "atelier",
+      "termB": "sculpture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier DE sculpture"
+    },
+    "r_topic_79": {
+      "termA": "série",
+      "termB": "mystère",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série DE mystère"
+    },
+    "r_topic_80": {
+      "termA": "journal",
+      "termB": "culture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal DE culture"
+    },
+    "r_topic_81": {
+      "termA": "chanson",
+      "termB": "espoir",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson D'espoir"
+    },
+    "r_topic_82": {
+      "termA": "séminaire",
+      "termB": "psychologie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire DE psychologie"
+    },
+    "r_topic_83": {
+      "termA": "événement",
+      "termB": "théâtre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Événement DE théâtre"
+    },
+    "r_topic_84": {
+      "termA": "cours",
+      "termB": "danse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Cours DE danse contemporaine"
+    },
+    "r_topic_85": {
+      "termA": "film",
+      "termB": "drame",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Film DE drame"
+    },
+    "r_topic_86": {
+      "termA": "livre",
+      "termB": "archéologie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Livre D'archéologie"
+    },
+    "r_topic_87": {
+      "termA": "conférence",
+      "termB": "climat",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Conférence DE climat"
+    },
+    "r_topic_88": {
+      "termA": "émission",
+      "termB": "bien",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Émission DE bien-être"
+    },
+    "r_topic_89": {
+      "termA": "article",
+      "termB": "technologie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Article DE technologie"
+    },
+    "r_topic_90": {
+      "termA": "exposition",
+      "termB": "artisanat",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Exposition D'artisanat"
+    },
+    "r_topic_91": {
+      "termA": "podcast",
+      "termB": "politique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Podcast DE politique"
+    },
+    "r_topic_92": {
+      "termA": "magazine",
+      "termB": "santé",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Magazine DE santé"
+    },
+    "r_topic_93": {
+      "termA": "documentaire",
+      "termB": "espace",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Documentaire D'espace"
+    },
+    "r_topic_94": {
+      "termA": "atelier",
+      "termB": "musique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Atelier DE musique"
+    },
+    "r_topic_95": {
+      "termA": "série",
+      "termB": "aventure",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Série D'aventure"
+    },
+    "r_topic_96": {
+      "termA": "journal",
+      "termB": "environnement",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Journal D'environnement"
+    },
+    "r_topic_97": {
+      "termA": "chanson",
+      "termB": "nature",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Chanson DE nature"
+    },
+    "r_topic_98": {
+      "termA": "séminaire",
+      "termB": "communication",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_topic",
+      "raw": "Séminaire DE communication"
+    }
+  }
+}

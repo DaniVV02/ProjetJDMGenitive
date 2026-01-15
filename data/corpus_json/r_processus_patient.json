@@ -1,0 +1,887 @@
+{
+  "label": "r_processus_patient",
+  "data": {
+    "r_processus_patient_0": {
+      "termA": "travail",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Travail DU bois"
+    },
+    "r_processus_patient_1": {
+      "termA": "ouverture",
+      "termB": "porte",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Ouverture DE la porte"
+    },
+    "r_processus_patient_2": {
+      "termA": "peinture",
+      "termB": "toile",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Peinture DE la toile"
+    },
+    "r_processus_patient_3": {
+      "termA": "taille",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Taille DE la pierre"
+    },
+    "r_processus_patient_4": {
+      "termA": "nettoyage",
+      "termB": "sol",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DU sol"
+    },
+    "r_processus_patient_5": {
+      "termA": "découpe",
+      "termB": "viande",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Découpe DE la viande"
+    },
+    "r_processus_patient_6": {
+      "termA": "cuisson",
+      "termB": "pain",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DU pain"
+    },
+    "r_processus_patient_7": {
+      "termA": "polissage",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Polissage DU métal"
+    },
+    "r_processus_patient_8": {
+      "termA": "tissage",
+      "termB": "tissu",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Tissage DU tissu"
+    },
+    "r_processus_patient_9": {
+      "termA": "gravure",
+      "termB": "verre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Gravure DU verre"
+    },
+    "r_processus_patient_10": {
+      "termA": "réparation",
+      "termB": "voiture",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Réparation DE la voiture"
+    },
+    "r_processus_patient_11": {
+      "termA": "lavage",
+      "termB": "vêtements",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Lavage DES vêtements"
+    },
+    "r_processus_patient_12": {
+      "termA": "sculpture",
+      "termB": "argile",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Sculpture DE l'argile"
+    },
+    "r_processus_patient_13": {
+      "termA": "écriture",
+      "termB": "manuscrit",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Écriture DU manuscrit"
+    },
+    "r_processus_patient_14": {
+      "termA": "construction",
+      "termB": "mur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Construction DU mur"
+    },
+    "r_processus_patient_15": {
+      "termA": "plantation",
+      "termB": "arbres",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Plantation DES arbres"
+    },
+    "r_processus_patient_16": {
+      "termA": "récolte",
+      "termB": "blé",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Récolte DU blé"
+    },
+    "r_processus_patient_17": {
+      "termA": "forage",
+      "termB": "puits",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Forage DU puits"
+    },
+    "r_processus_patient_18": {
+      "termA": "montage",
+      "termB": "meuble",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Montage DU meuble"
+    },
+    "r_processus_patient_19": {
+      "termA": "teinture",
+      "termB": "tissu",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Teinture DU tissu"
+    },
+    "r_processus_patient_20": {
+      "termA": "nettoyage",
+      "termB": "vitres",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DES vitres"
+    },
+    "r_processus_patient_21": {
+      "termA": "broyage",
+      "termB": "grain",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Broyage DU grain"
+    },
+    "r_processus_patient_22": {
+      "termA": "fusion",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Fusion DU métal"
+    },
+    "r_processus_patient_23": {
+      "termA": "décoration",
+      "termB": "salle",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Décoration DE la salle"
+    },
+    "r_processus_patient_24": {
+      "termA": "pliage",
+      "termB": "papier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Pliage DU papier"
+    },
+    "r_processus_patient_25": {
+      "termA": "tournage",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Tournage DU bois"
+    },
+    "r_processus_patient_26": {
+      "termA": "perçage",
+      "termB": "planche",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Perçage DE la planche"
+    },
+    "r_processus_patient_27": {
+      "termA": "cuisson",
+      "termB": "légumes",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DES légumes"
+    },
+    "r_processus_patient_28": {
+      "termA": "modelage",
+      "termB": "pâte",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Modelage DE la pâte"
+    },
+    "r_processus_patient_29": {
+      "termA": "vernissage",
+      "termB": "tableau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Vernissage DU tableau"
+    },
+    "r_processus_patient_30": {
+      "termA": "aiguisage",
+      "termB": "couteau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Aiguisage DU couteau"
+    },
+    "r_processus_patient_31": {
+      "termA": "couture",
+      "termB": "vêtement",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Couture DU vêtement"
+    },
+    "r_processus_patient_32": {
+      "termA": "élagage",
+      "termB": "branches",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Élagage DES branches"
+    },
+    "r_processus_patient_33": {
+      "termA": "frappe",
+      "termB": "pièce",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Frappe DE la pièce"
+    },
+    "r_processus_patient_34": {
+      "termA": "lissage",
+      "termB": "cuir",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Lissage DU cuir"
+    },
+    "r_processus_patient_35": {
+      "termA": "gravure",
+      "termB": "plaque",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Gravure DE la plaque"
+    },
+    "r_processus_patient_36": {
+      "termA": "peinture",
+      "termB": "mur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Peinture DU mur"
+    },
+    "r_processus_patient_37": {
+      "termA": "tressage",
+      "termB": "cheveux",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Tressage DES cheveux"
+    },
+    "r_processus_patient_38": {
+      "termA": "découpe",
+      "termB": "tissu",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Découpe DU tissu"
+    },
+    "r_processus_patient_39": {
+      "termA": "polissage",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Polissage DE la pierre"
+    },
+    "r_processus_patient_40": {
+      "termA": "nettoyage",
+      "termB": "tapis",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DU tapis"
+    },
+    "r_processus_patient_41": {
+      "termA": "réparation",
+      "termB": "moteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Réparation DU moteur"
+    },
+    "r_processus_patient_42": {
+      "termA": "cuisson",
+      "termB": "viande",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DE la viande"
+    },
+    "r_processus_patient_43": {
+      "termA": "taille",
+      "termB": "buisson",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Taille DU buisson"
+    },
+    "r_processus_patient_44": {
+      "termA": "impression",
+      "termB": "livre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Impression DU livre"
+    },
+    "r_processus_patient_45": {
+      "termA": "construction",
+      "termB": "maison",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Construction DE la maison"
+    },
+    "r_processus_patient_46": {
+      "termA": "récolte",
+      "termB": "fruits",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Récolte DES fruits"
+    },
+    "r_processus_patient_47": {
+      "termA": "forage",
+      "termB": "roche",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Forage DE la roche"
+    },
+    "r_processus_patient_48": {
+      "termA": "montage",
+      "termB": "étagère",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Montage DE l'étagère"
+    },
+    "r_processus_patient_49": {
+      "termA": "teinture",
+      "termB": "cuir",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Teinture DU cuir"
+    },
+    "r_processus_patient_50": {
+      "termA": "nettoyage",
+      "termB": "écran",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DE l'écran"
+    },
+    "r_processus_patient_51": {
+      "termA": "broyage",
+      "termB": "épices",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Broyage DES épices"
+    },
+    "r_processus_patient_52": {
+      "termA": "fusion",
+      "termB": "verre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Fusion DU verre"
+    },
+    "r_processus_patient_53": {
+      "termA": "décoration",
+      "termB": "gâteau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Décoration DU gâteau"
+    },
+    "r_processus_patient_54": {
+      "termA": "pliage",
+      "termB": "feuille",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Pliage DE la feuille"
+    },
+    "r_processus_patient_55": {
+      "termA": "tournage",
+      "termB": "argile",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Tournage DE l'argile"
+    },
+    "r_processus_patient_56": {
+      "termA": "perçage",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Perçage DU métal"
+    },
+    "r_processus_patient_57": {
+      "termA": "cuisson",
+      "termB": "poisson",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DU poisson"
+    },
+    "r_processus_patient_58": {
+      "termA": "modelage",
+      "termB": "plâtre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Modelage DU plâtre"
+    },
+    "r_processus_patient_59": {
+      "termA": "vernissage",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Vernissage DU bois"
+    },
+    "r_processus_patient_60": {
+      "termA": "aiguisage",
+      "termB": "lame",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Aiguisage DE la lame"
+    },
+    "r_processus_patient_61": {
+      "termA": "couture",
+      "termB": "robe",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Couture DE la robe"
+    },
+    "r_processus_patient_62": {
+      "termA": "élagage",
+      "termB": "arbre",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Élagage DE l'arbre"
+    },
+    "r_processus_patient_63": {
+      "termA": "frappe",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Frappe DU métal"
+    },
+    "r_processus_patient_64": {
+      "termA": "lissage",
+      "termB": "surface",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Lissage DE la surface"
+    },
+    "r_processus_patient_65": {
+      "termA": "gravure",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Gravure DU bois"
+    },
+    "r_processus_patient_66": {
+      "termA": "peinture",
+      "termB": "chaise",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Peinture DE la chaise"
+    },
+    "r_processus_patient_67": {
+      "termA": "tressage",
+      "termB": "panier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Tressage DU panier"
+    },
+    "r_processus_patient_68": {
+      "termA": "découpe",
+      "termB": "papier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Découpe DU papier"
+    },
+    "r_processus_patient_69": {
+      "termA": "polissage",
+      "termB": "bijou",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Polissage DU bijou"
+    },
+    "r_processus_patient_70": {
+      "termA": "nettoyage",
+      "termB": "table",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DE la table"
+    },
+    "r_processus_patient_71": {
+      "termA": "réparation",
+      "termB": "vélo",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Réparation DU vélo"
+    },
+    "r_processus_patient_72": {
+      "termA": "cuisson",
+      "termB": "pâte",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DE la pâte"
+    },
+    "r_processus_patient_73": {
+      "termA": "taille",
+      "termB": "vigne",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Taille DE la vigne"
+    },
+    "r_processus_patient_74": {
+      "termA": "impression",
+      "termB": "affiche",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Impression DE l'affiche"
+    },
+    "r_processus_patient_75": {
+      "termA": "construction",
+      "termB": "pont",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Construction DU pont"
+    },
+    "r_processus_patient_76": {
+      "termA": "récolte",
+      "termB": "maïs",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Récolte DU maïs"
+    },
+    "r_processus_patient_77": {
+      "termA": "forage",
+      "termB": "terrain",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Forage DU terrain"
+    },
+    "r_processus_patient_78": {
+      "termA": "montage",
+      "termB": "cadre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Montage DU cadre"
+    },
+    "r_processus_patient_79": {
+      "termA": "teinture",
+      "termB": "laine",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Teinture DE la laine"
+    },
+    "r_processus_patient_80": {
+      "termA": "nettoyage",
+      "termB": "miroir",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Nettoyage DU miroir"
+    },
+    "r_processus_patient_81": {
+      "termA": "broyage",
+      "termB": "café",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Broyage DU café"
+    },
+    "r_processus_patient_82": {
+      "termA": "fusion",
+      "termB": "acier",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Fusion DE l'acier"
+    },
+    "r_processus_patient_83": {
+      "termA": "décoration",
+      "termB": "maison",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Décoration DE la maison"
+    },
+    "r_processus_patient_84": {
+      "termA": "pliage",
+      "termB": "carton",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Pliage DU carton"
+    },
+    "r_processus_patient_85": {
+      "termA": "tournage",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Tournage DU métal"
+    },
+    "r_processus_patient_86": {
+      "termA": "perçage",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Perçage DE la pierre"
+    },
+    "r_processus_patient_87": {
+      "termA": "cuisson",
+      "termB": "riz",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Cuisson DU riz"
+    },
+    "r_processus_patient_88": {
+      "termA": "modelage",
+      "termB": "cire",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Modelage DE la cire"
+    },
+    "r_processus_patient_89": {
+      "termA": "vernissage",
+      "termB": "table",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Vernissage DE la table"
+    },
+    "r_processus_patient_90": {
+      "termA": "aiguisage",
+      "termB": "ciseaux",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Aiguisage DES ciseaux"
+    },
+    "r_processus_patient_91": {
+      "termA": "couture",
+      "termB": "sac",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Couture DU sac"
+    },
+    "r_processus_patient_92": {
+      "termA": "élagage",
+      "termB": "haies",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Élagage DES haies"
+    },
+    "r_processus_patient_93": {
+      "termA": "frappe",
+      "termB": "fer",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Frappe DU fer"
+    },
+    "r_processus_patient_94": {
+      "termA": "lissage",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_patient",
+      "raw": "Lissage DU bois"
+    },
+    "r_processus_patient_95": {
+      "termA": "gravure",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Gravure DE la pierre"
+    },
+    "r_processus_patient_96": {
+      "termA": "peinture",
+      "termB": "clôture",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Peinture DE la clôture"
+    },
+    "r_processus_patient_97": {
+      "termA": "tressage",
+      "termB": "corde",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_patient",
+      "raw": "Tressage DE la corde"
+    }
+  }
+}

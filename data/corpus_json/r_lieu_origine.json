@@ -1,0 +1,905 @@
+{
+  "label": "r_lieu_origine",
+  "data": {
+    "r_lieu_origine_0": {
+      "termA": "vin",
+      "termB": "france",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DE France"
+    },
+    "r_lieu_origine_1": {
+      "termA": "café",
+      "termB": "brésil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Brésil"
+    },
+    "r_lieu_origine_2": {
+      "termA": "fromage",
+      "termB": "suisse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Suisse"
+    },
+    "r_lieu_origine_3": {
+      "termA": "thé",
+      "termB": "chine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DE Chine"
+    },
+    "r_lieu_origine_4": {
+      "termA": "bière",
+      "termB": "allemagne",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière D'Allemagne"
+    },
+    "r_lieu_origine_5": {
+      "termA": "riz",
+      "termB": "japon",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Japon"
+    },
+    "r_lieu_origine_6": {
+      "termA": "huile",
+      "termB": "italie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive D'Italie"
+    },
+    "r_lieu_origine_7": {
+      "termA": "cacao",
+      "termB": "ivoire",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DE Côte d'Ivoire"
+    },
+    "r_lieu_origine_8": {
+      "termA": "bananes",
+      "termB": "costa",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Costa Rica"
+    },
+    "r_lieu_origine_9": {
+      "termA": "oranges",
+      "termB": "espagne",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges D'Espagne"
+    },
+    "r_lieu_origine_10": {
+      "termA": "vin",
+      "termB": "chili",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DU Chili"
+    },
+    "r_lieu_origine_11": {
+      "termA": "thé",
+      "termB": "sri",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DU Sri Lanka"
+    },
+    "r_lieu_origine_12": {
+      "termA": "café",
+      "termB": "colombie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DE Colombie"
+    },
+    "r_lieu_origine_13": {
+      "termA": "fromage",
+      "termB": "royaume",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DU Royaume-Uni"
+    },
+    "r_lieu_origine_14": {
+      "termA": "bière",
+      "termB": "belgique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DE Belgique"
+    },
+    "r_lieu_origine_15": {
+      "termA": "riz",
+      "termB": "thaïlande",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DE Thaïlande"
+    },
+    "r_lieu_origine_16": {
+      "termA": "huile",
+      "termB": "grèce",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DE Grèce"
+    },
+    "r_lieu_origine_17": {
+      "termA": "cacao",
+      "termB": "ghana",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DU Ghana"
+    },
+    "r_lieu_origine_18": {
+      "termA": "bananes",
+      "termB": "équateur",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes D'Équateur"
+    },
+    "r_lieu_origine_19": {
+      "termA": "oranges",
+      "termB": "maroc",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DU Maroc"
+    },
+    "r_lieu_origine_20": {
+      "termA": "vin",
+      "termB": "australie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin D'Australie"
+    },
+    "r_lieu_origine_21": {
+      "termA": "thé",
+      "termB": "inde",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé D'Inde"
+    },
+    "r_lieu_origine_22": {
+      "termA": "café",
+      "termB": "vietnam",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Vietnam"
+    },
+    "r_lieu_origine_23": {
+      "termA": "fromage",
+      "termB": "hollande",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Hollande"
+    },
+    "r_lieu_origine_24": {
+      "termA": "bière",
+      "termB": "mexique",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DU Mexique"
+    },
+    "r_lieu_origine_25": {
+      "termA": "riz",
+      "termB": "vietnam",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Vietnam"
+    },
+    "r_lieu_origine_26": {
+      "termA": "huile",
+      "termB": "espagne",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive D'Espagne"
+    },
+    "r_lieu_origine_27": {
+      "termA": "cacao",
+      "termB": "indonésie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao D'Indonésie"
+    },
+    "r_lieu_origine_28": {
+      "termA": "bananes",
+      "termB": "philippines",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DES Philippines"
+    },
+    "r_lieu_origine_29": {
+      "termA": "oranges",
+      "termB": "floride",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DE Floride"
+    },
+    "r_lieu_origine_30": {
+      "termA": "vin",
+      "termB": "californie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DE Californie"
+    },
+    "r_lieu_origine_31": {
+      "termA": "thé",
+      "termB": "kenya",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DU Kenya"
+    },
+    "r_lieu_origine_32": {
+      "termA": "café",
+      "termB": "éthiopie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café D'Éthiopie"
+    },
+    "r_lieu_origine_33": {
+      "termA": "fromage",
+      "termB": "italie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage D'Italie"
+    },
+    "r_lieu_origine_34": {
+      "termA": "bière",
+      "termB": "irlande",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière D'Irlande"
+    },
+    "r_lieu_origine_35": {
+      "termA": "riz",
+      "termB": "inde",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz D'Inde"
+    },
+    "r_lieu_origine_36": {
+      "termA": "huile",
+      "termB": "tunisie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DE Tunisie"
+    },
+    "r_lieu_origine_37": {
+      "termA": "cacao",
+      "termB": "cameroun",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DU Cameroun"
+    },
+    "r_lieu_origine_38": {
+      "termA": "bananes",
+      "termB": "guatemala",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Guatemala"
+    },
+    "r_lieu_origine_39": {
+      "termA": "oranges",
+      "termB": "sud",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges D'Afrique du Sud"
+    },
+    "r_lieu_origine_40": {
+      "termA": "vin",
+      "termB": "argentine",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin D'Argentine"
+    },
+    "r_lieu_origine_41": {
+      "termA": "thé",
+      "termB": "argentine",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé D'Argentine"
+    },
+    "r_lieu_origine_42": {
+      "termA": "café",
+      "termB": "guatemala",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Guatemala"
+    },
+    "r_lieu_origine_43": {
+      "termA": "fromage",
+      "termB": "grèce",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Grèce"
+    },
+    "r_lieu_origine_44": {
+      "termA": "bière",
+      "termB": "république",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DE République Tchèque"
+    },
+    "r_lieu_origine_45": {
+      "termA": "riz",
+      "termB": "chine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DE Chine"
+    },
+    "r_lieu_origine_46": {
+      "termA": "huile",
+      "termB": "portugal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DU Portugal"
+    },
+    "r_lieu_origine_47": {
+      "termA": "cacao",
+      "termB": "pérou",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DE Pérou"
+    },
+    "r_lieu_origine_48": {
+      "termA": "bananes",
+      "termB": "inde",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes D'Inde"
+    },
+    "r_lieu_origine_49": {
+      "termA": "oranges",
+      "termB": "brésil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DU Brésil"
+    },
+    "r_lieu_origine_50": {
+      "termA": "vin",
+      "termB": "portugal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DU Portugal"
+    },
+    "r_lieu_origine_51": {
+      "termA": "thé",
+      "termB": "turquie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DE Turquie"
+    },
+    "r_lieu_origine_52": {
+      "termA": "café",
+      "termB": "honduras",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Honduras"
+    },
+    "r_lieu_origine_53": {
+      "termA": "fromage",
+      "termB": "danemark",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DU Danemark"
+    },
+    "r_lieu_origine_54": {
+      "termA": "bière",
+      "termB": "canada",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DU Canada"
+    },
+    "r_lieu_origine_55": {
+      "termA": "riz",
+      "termB": "pakistan",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Pakistan"
+    },
+    "r_lieu_origine_56": {
+      "termA": "huile",
+      "termB": "turquie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DE Turquie"
+    },
+    "r_lieu_origine_57": {
+      "termA": "cacao",
+      "termB": "nigeria",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DU Nigeria"
+    },
+    "r_lieu_origine_58": {
+      "termA": "bananes",
+      "termB": "mexique",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Mexique"
+    },
+    "r_lieu_origine_59": {
+      "termA": "oranges",
+      "termB": "israël",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges D'Israël"
+    },
+    "r_lieu_origine_60": {
+      "termA": "vin",
+      "termB": "nouvelle",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DE Nouvelle-Zélande"
+    },
+    "r_lieu_origine_61": {
+      "termA": "thé",
+      "termB": "malawi",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DU Malawi"
+    },
+    "r_lieu_origine_62": {
+      "termA": "café",
+      "termB": "kenya",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Kenya"
+    },
+    "r_lieu_origine_63": {
+      "termA": "fromage",
+      "termB": "norvège",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Norvège"
+    },
+    "r_lieu_origine_64": {
+      "termA": "bière",
+      "termB": "angleterre",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière D'Angleterre"
+    },
+    "r_lieu_origine_65": {
+      "termA": "riz",
+      "termB": "bangladesh",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Bangladesh"
+    },
+    "r_lieu_origine_66": {
+      "termA": "huile",
+      "termB": "australie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive D'Australie"
+    },
+    "r_lieu_origine_67": {
+      "termA": "cacao",
+      "termB": "madagascar",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DE Madagascar"
+    },
+    "r_lieu_origine_68": {
+      "termA": "bananes",
+      "termB": "panama",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Panama"
+    },
+    "r_lieu_origine_69": {
+      "termA": "oranges",
+      "termB": "californie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DE Californie"
+    },
+    "r_lieu_origine_70": {
+      "termA": "vin",
+      "termB": "sud",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin D'Afrique du Sud"
+    },
+    "r_lieu_origine_71": {
+      "termA": "thé",
+      "termB": "iran",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé D'Iran"
+    },
+    "r_lieu_origine_72": {
+      "termA": "café",
+      "termB": "pérou",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Pérou"
+    },
+    "r_lieu_origine_73": {
+      "termA": "fromage",
+      "termB": "suède",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Suède"
+    },
+    "r_lieu_origine_74": {
+      "termA": "bière",
+      "termB": "japon",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DU Japon"
+    },
+    "r_lieu_origine_75": {
+      "termA": "riz",
+      "termB": "égypte",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz D'Égypte"
+    },
+    "r_lieu_origine_76": {
+      "termA": "huile",
+      "termB": "syrie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DE Syrie"
+    },
+    "r_lieu_origine_77": {
+      "termA": "cacao",
+      "termB": "brésil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DU Brésil"
+    },
+    "r_lieu_origine_78": {
+      "termA": "bananes",
+      "termB": "honduras",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes D'Honduras"
+    },
+    "r_lieu_origine_79": {
+      "termA": "oranges",
+      "termB": "mexique",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DU Mexique"
+    },
+    "r_lieu_origine_80": {
+      "termA": "vin",
+      "termB": "liban",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DU Liban"
+    },
+    "r_lieu_origine_81": {
+      "termA": "thé",
+      "termB": "népal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DU Népal"
+    },
+    "r_lieu_origine_82": {
+      "termA": "café",
+      "termB": "indonésie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café D'Indonésie"
+    },
+    "r_lieu_origine_83": {
+      "termA": "fromage",
+      "termB": "espagne",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage D'Espagne"
+    },
+    "r_lieu_origine_84": {
+      "termA": "bière",
+      "termB": "pologne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DE Pologne"
+    },
+    "r_lieu_origine_85": {
+      "termA": "riz",
+      "termB": "cambodge",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Cambodge"
+    },
+    "r_lieu_origine_86": {
+      "termA": "huile",
+      "termB": "liban",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive DU Liban"
+    },
+    "r_lieu_origine_87": {
+      "termA": "cacao",
+      "termB": "équateur",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao D'Équateur"
+    },
+    "r_lieu_origine_88": {
+      "termA": "bananes",
+      "termB": "brésil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Brésil"
+    },
+    "r_lieu_origine_89": {
+      "termA": "oranges",
+      "termB": "australie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges D'Australie"
+    },
+    "r_lieu_origine_90": {
+      "termA": "vin",
+      "termB": "hongrie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Vin DE Hongrie"
+    },
+    "r_lieu_origine_91": {
+      "termA": "thé",
+      "termB": "rwanda",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Thé DU Rwanda"
+    },
+    "r_lieu_origine_92": {
+      "termA": "café",
+      "termB": "nicaragua",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Café DU Nicaragua"
+    },
+    "r_lieu_origine_93": {
+      "termA": "fromage",
+      "termB": "finlande",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Fromage DE Finlande"
+    },
+    "r_lieu_origine_94": {
+      "termA": "bière",
+      "termB": "russie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bière DE Russie"
+    },
+    "r_lieu_origine_95": {
+      "termA": "riz",
+      "termB": "myanmar",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Riz DU Myanmar"
+    },
+    "r_lieu_origine_96": {
+      "termA": "huile",
+      "termB": "argentine",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Huile D'olive D'Argentine"
+    },
+    "r_lieu_origine_97": {
+      "termA": "cacao",
+      "termB": "venezuela",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Cacao DU Venezuela"
+    },
+    "r_lieu_origine_98": {
+      "termA": "bananes",
+      "termB": "nicaragua",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Bananes DU Nicaragua"
+    },
+    "r_lieu_origine_99": {
+      "termA": "oranges",
+      "termB": "turquie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu_origine",
+      "raw": "Oranges DE Turquie"
+    }
+  }
+}

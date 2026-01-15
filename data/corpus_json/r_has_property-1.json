@@ -1,0 +1,905 @@
+{
+  "label": "r_has_property-1",
+  "data": {
+    "r_has_property-1_0": {
+      "termA": "fatigue",
+      "termB": "effort",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fatigue DE l'effort"
+    },
+    "r_has_property-1_1": {
+      "termA": "rougeur",
+      "termB": "visage",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rougeur DU visage"
+    },
+    "r_has_property-1_2": {
+      "termA": "douceur",
+      "termB": "peau",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DE la peau"
+    },
+    "r_has_property-1_3": {
+      "termA": "chaleur",
+      "termB": "soleil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Chaleur DU soleil"
+    },
+    "r_has_property-1_4": {
+      "termA": "fraîcheur",
+      "termB": "eau",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fraîcheur DE l'eau"
+    },
+    "r_has_property-1_5": {
+      "termA": "dureté",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Dureté DE la pierre"
+    },
+    "r_has_property-1_6": {
+      "termA": "clarté",
+      "termB": "ciel",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Clarté DU ciel"
+    },
+    "r_has_property-1_7": {
+      "termA": "lourdeur",
+      "termB": "sac",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Lourdeur DU sac"
+    },
+    "r_has_property-1_8": {
+      "termA": "brillance",
+      "termB": "étoile",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Brillance DE l'étoile"
+    },
+    "r_has_property-1_9": {
+      "termA": "rugosité",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rugosité DU bois"
+    },
+    "r_has_property-1_10": {
+      "termA": "éclat",
+      "termB": "diamant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU diamant"
+    },
+    "r_has_property-1_11": {
+      "termA": "froid",
+      "termB": "glace",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Froid DE la glace"
+    },
+    "r_has_property-1_12": {
+      "termA": "légèreté",
+      "termB": "plume",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Légèreté DE la plume"
+    },
+    "r_has_property-1_13": {
+      "termA": "densité",
+      "termB": "brouillard",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Densité DU brouillard"
+    },
+    "r_has_property-1_14": {
+      "termA": "parfum",
+      "termB": "fleur",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Parfum DE la fleur"
+    },
+    "r_has_property-1_15": {
+      "termA": "rigidité",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rigidité DU métal"
+    },
+    "r_has_property-1_16": {
+      "termA": "douceur",
+      "termB": "velours",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DU velours"
+    },
+    "r_has_property-1_17": {
+      "termA": "épaisseur",
+      "termB": "mur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Épaisseur DU mur"
+    },
+    "r_has_property-1_18": {
+      "termA": "transparence",
+      "termB": "verre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Transparence DU verre"
+    },
+    "r_has_property-1_19": {
+      "termA": "acidité",
+      "termB": "citron",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Acidité DU citron"
+    },
+    "r_has_property-1_20": {
+      "termA": "chaleur",
+      "termB": "flamme",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Chaleur DE la flamme"
+    },
+    "r_has_property-1_21": {
+      "termA": "fluidité",
+      "termB": "eau",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fluidité DE l'eau"
+    },
+    "r_has_property-1_22": {
+      "termA": "solidité",
+      "termB": "roc",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Solidité DU roc"
+    },
+    "r_has_property-1_23": {
+      "termA": "éclat",
+      "termB": "soleil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU soleil"
+    },
+    "r_has_property-1_24": {
+      "termA": "fragilité",
+      "termB": "porcelaine",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fragilité DE la porcelaine"
+    },
+    "r_has_property-1_25": {
+      "termA": "suavité",
+      "termB": "miel",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Suavité DU miel"
+    },
+    "r_has_property-1_26": {
+      "termA": "amertume",
+      "termB": "café",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Amertume DU café"
+    },
+    "r_has_property-1_27": {
+      "termA": "épaisseur",
+      "termB": "forêt",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Épaisseur DE la forêt"
+    },
+    "r_has_property-1_28": {
+      "termA": "clarté",
+      "termB": "eau",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Clarté DE l'eau"
+    },
+    "r_has_property-1_29": {
+      "termA": "poids",
+      "termB": "rocher",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Poids DU rocher"
+    },
+    "r_has_property-1_30": {
+      "termA": "douceur",
+      "termB": "brise",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DE la brise"
+    },
+    "r_has_property-1_31": {
+      "termA": "dureté",
+      "termB": "diamant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Dureté DU diamant"
+    },
+    "r_has_property-1_32": {
+      "termA": "fraîcheur",
+      "termB": "vent",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Fraîcheur DU vent"
+    },
+    "r_has_property-1_33": {
+      "termA": "éclat",
+      "termB": "lune",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DE la lune"
+    },
+    "r_has_property-1_34": {
+      "termA": "rugosité",
+      "termB": "écorce",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Rugosité DE l'écorce"
+    },
+    "r_has_property-1_35": {
+      "termA": "chaleur",
+      "termB": "désert",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Chaleur DU désert"
+    },
+    "r_has_property-1_36": {
+      "termA": "transparence",
+      "termB": "air",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Transparence DE l'air"
+    },
+    "r_has_property-1_37": {
+      "termA": "parfum",
+      "termB": "jasmin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Parfum DU jasmin"
+    },
+    "r_has_property-1_38": {
+      "termA": "rigidité",
+      "termB": "planche",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Rigidité DE la planche"
+    },
+    "r_has_property-1_39": {
+      "termA": "légereté",
+      "termB": "nuage",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Légereté DU nuage"
+    },
+    "r_has_property-1_40": {
+      "termA": "densité",
+      "termB": "foule",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Densité DE la foule"
+    },
+    "r_has_property-1_41": {
+      "termA": "acidité",
+      "termB": "vinaigre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Acidité DU vinaigre"
+    },
+    "r_has_property-1_42": {
+      "termA": "brillance",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Brillance DU métal"
+    },
+    "r_has_property-1_43": {
+      "termA": "froid",
+      "termB": "neige",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Froid DE la neige"
+    },
+    "r_has_property-1_44": {
+      "termA": "fluidité",
+      "termB": "ruisseau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Fluidité DU ruisseau"
+    },
+    "r_has_property-1_45": {
+      "termA": "solidité",
+      "termB": "béton",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Solidité DU béton"
+    },
+    "r_has_property-1_46": {
+      "termA": "éclat",
+      "termB": "étoiles",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DES étoiles"
+    },
+    "r_has_property-1_47": {
+      "termA": "fragilité",
+      "termB": "verre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Fragilité DU verre"
+    },
+    "r_has_property-1_48": {
+      "termA": "suavité",
+      "termB": "parfum",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Suavité DU parfum"
+    },
+    "r_has_property-1_49": {
+      "termA": "amertume",
+      "termB": "orange",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Amertume DE l'orange"
+    },
+    "r_has_property-1_50": {
+      "termA": "épaisseur",
+      "termB": "tapis",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Épaisseur DU tapis"
+    },
+    "r_has_property-1_51": {
+      "termA": "clarté",
+      "termB": "cristal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Clarté DU cristal"
+    },
+    "r_has_property-1_52": {
+      "termA": "poids",
+      "termB": "plomb",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Poids DU plomb"
+    },
+    "r_has_property-1_53": {
+      "termA": "douceur",
+      "termB": "soie",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DE la soie"
+    },
+    "r_has_property-1_54": {
+      "termA": "dureté",
+      "termB": "acier",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Dureté DE l'acier"
+    },
+    "r_has_property-1_55": {
+      "termA": "fraîcheur",
+      "termB": "menthe",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fraîcheur DE la menthe"
+    },
+    "r_has_property-1_56": {
+      "termA": "éclat",
+      "termB": "miroir",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU miroir"
+    },
+    "r_has_property-1_57": {
+      "termA": "rugosité",
+      "termB": "sable",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rugosité DU sable"
+    },
+    "r_has_property-1_58": {
+      "termA": "chaleur",
+      "termB": "radiateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Chaleur DU radiateur"
+    },
+    "r_has_property-1_59": {
+      "termA": "transparence",
+      "termB": "vitre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Transparence DE la vitre"
+    },
+    "r_has_property-1_60": {
+      "termA": "parfum",
+      "termB": "lavande",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Parfum DE la lavande"
+    },
+    "r_has_property-1_61": {
+      "termA": "rigidité",
+      "termB": "plastique",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rigidité DU plastique"
+    },
+    "r_has_property-1_62": {
+      "termA": "légereté",
+      "termB": "air",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Légereté DE l'air"
+    },
+    "r_has_property-1_63": {
+      "termA": "densité",
+      "termB": "bois",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Densité DU bois"
+    },
+    "r_has_property-1_64": {
+      "termA": "acidité",
+      "termB": "pomme",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Acidité DE la pomme"
+    },
+    "r_has_property-1_65": {
+      "termA": "brillance",
+      "termB": "or",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Brillance DE l'or"
+    },
+    "r_has_property-1_66": {
+      "termA": "froid",
+      "termB": "métal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Froid DU métal"
+    },
+    "r_has_property-1_67": {
+      "termA": "fluidité",
+      "termB": "sirop",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Fluidité DU sirop"
+    },
+    "r_has_property-1_68": {
+      "termA": "solidité",
+      "termB": "brique",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Solidité DE la brique"
+    },
+    "r_has_property-1_69": {
+      "termA": "éclat",
+      "termB": "chrome",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU chrome"
+    },
+    "r_has_property-1_70": {
+      "termA": "fragilité",
+      "termB": "feuille",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fragilité DE la feuille"
+    },
+    "r_has_property-1_71": {
+      "termA": "suavité",
+      "termB": "lait",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Suavité DU lait"
+    },
+    "r_has_property-1_72": {
+      "termA": "amertume",
+      "termB": "thé",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Amertume DU thé"
+    },
+    "r_has_property-1_73": {
+      "termA": "épaisseur",
+      "termB": "laine",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Épaisseur DE la laine"
+    },
+    "r_has_property-1_74": {
+      "termA": "clarté",
+      "termB": "source",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Clarté DE la source"
+    },
+    "r_has_property-1_75": {
+      "termA": "poids",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Poids DE la pierre"
+    },
+    "r_has_property-1_76": {
+      "termA": "douceur",
+      "termB": "coton",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DU coton"
+    },
+    "r_has_property-1_77": {
+      "termA": "dureté",
+      "termB": "granit",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Dureté DU granit"
+    },
+    "r_has_property-1_78": {
+      "termA": "fraîcheur",
+      "termB": "ombre",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fraîcheur DE l'ombre"
+    },
+    "r_has_property-1_79": {
+      "termA": "éclat",
+      "termB": "joyau",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU joyau"
+    },
+    "r_has_property-1_80": {
+      "termA": "rugosité",
+      "termB": "toile",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Rugosité DE la toile"
+    },
+    "r_has_property-1_81": {
+      "termA": "chaleur",
+      "termB": "été",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Chaleur DE l'été"
+    },
+    "r_has_property-1_82": {
+      "termA": "transparence",
+      "termB": "film",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Transparence DU film"
+    },
+    "r_has_property-1_83": {
+      "termA": "parfum",
+      "termB": "orange",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Parfum DE l'orange"
+    },
+    "r_has_property-1_84": {
+      "termA": "rigidité",
+      "termB": "fer",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Rigidité DU fer"
+    },
+    "r_has_property-1_85": {
+      "termA": "légereté",
+      "termB": "mousse",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Légereté DE la mousse"
+    },
+    "r_has_property-1_86": {
+      "termA": "densité",
+      "termB": "fumée",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Densité DE la fumée"
+    },
+    "r_has_property-1_87": {
+      "termA": "acidité",
+      "termB": "yaourt",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Acidité DU yaourt"
+    },
+    "r_has_property-1_88": {
+      "termA": "brillance",
+      "termB": "cuivre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Brillance DU cuivre"
+    },
+    "r_has_property-1_89": {
+      "termA": "froid",
+      "termB": "hiver",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Froid DE l'hiver"
+    },
+    "r_has_property-1_90": {
+      "termA": "fluidité",
+      "termB": "huile",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Fluidité DE l'huile"
+    },
+    "r_has_property-1_91": {
+      "termA": "solidité",
+      "termB": "chêne",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Solidité DU chêne"
+    },
+    "r_has_property-1_92": {
+      "termA": "éclat",
+      "termB": "quartz",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Éclat DU quartz"
+    },
+    "r_has_property-1_93": {
+      "termA": "fragilité",
+      "termB": "cristal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Fragilité DU cristal"
+    },
+    "r_has_property-1_94": {
+      "termA": "suavité",
+      "termB": "nectar",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Suavité DU nectar"
+    },
+    "r_has_property-1_95": {
+      "termA": "amertume",
+      "termB": "olive",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Amertume DE l'olive"
+    },
+    "r_has_property-1_96": {
+      "termA": "épaisseur",
+      "termB": "brouillard",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Épaisseur DU brouillard"
+    },
+    "r_has_property-1_97": {
+      "termA": "clarté",
+      "termB": "diamant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Clarté DU diamant"
+    },
+    "r_has_property-1_98": {
+      "termA": "poids",
+      "termB": "marbre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_property-1",
+      "raw": "Poids DU marbre"
+    },
+    "r_has_property-1_99": {
+      "termA": "douceur",
+      "termB": "laine",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_has_property-1",
+      "raw": "Douceur DE la laine"
+    }
+  }
+}

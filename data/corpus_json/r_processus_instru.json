@@ -1,0 +1,887 @@
+{
+  "label": "r_processus_instru",
+  "data": {
+    "r_processus_instru_0": {
+      "termA": "clé",
+      "termB": "ouverture",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé D'ouverture"
+    },
+    "r_processus_instru_1": {
+      "termA": "clé",
+      "termB": "porte",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé DE la porte"
+    },
+    "r_processus_instru_2": {
+      "termA": "pinceau",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pinceau DE peinture"
+    },
+    "r_processus_instru_3": {
+      "termA": "marteau",
+      "termB": "frappe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Marteau DE frappe"
+    },
+    "r_processus_instru_4": {
+      "termA": "couteau",
+      "termB": "coupe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Couteau DE coupe"
+    },
+    "r_processus_instru_5": {
+      "termA": "pelle",
+      "termB": "creusement",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pelle DE creusement"
+    },
+    "r_processus_instru_6": {
+      "termA": "aiguille",
+      "termB": "couture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Aiguille DE couture"
+    },
+    "r_processus_instru_7": {
+      "termA": "tournevis",
+      "termB": "vissage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Tournevis DE vissage"
+    },
+    "r_processus_instru_8": {
+      "termA": "pince",
+      "termB": "serrage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pince DE serrage"
+    },
+    "r_processus_instru_9": {
+      "termA": "scie",
+      "termB": "découpe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Scie DE découpe"
+    },
+    "r_processus_instru_10": {
+      "termA": "brosse",
+      "termB": "nettoyage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Brosse DE nettoyage"
+    },
+    "r_processus_instru_11": {
+      "termA": "ciseau",
+      "termB": "sculpture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseau DE sculpture"
+    },
+    "r_processus_instru_12": {
+      "termA": "stylo",
+      "termB": "écriture",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Stylo D'écriture"
+    },
+    "r_processus_instru_13": {
+      "termA": "râteau",
+      "termB": "ramassage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Râteau DE ramassage"
+    },
+    "r_processus_instru_14": {
+      "termA": "hache",
+      "termB": "coupe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Hache DE coupe"
+    },
+    "r_processus_instru_15": {
+      "termA": "foret",
+      "termB": "perçage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Foret DE perçage"
+    },
+    "r_processus_instru_16": {
+      "termA": "cuillère",
+      "termB": "mélange",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Cuillère DE mélange"
+    },
+    "r_processus_instru_17": {
+      "termA": "fouet",
+      "termB": "battage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Fouet DE battage"
+    },
+    "r_processus_instru_18": {
+      "termA": "rouleau",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Rouleau DE peinture"
+    },
+    "r_processus_instru_19": {
+      "termA": "balai",
+      "termB": "balayage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Balai DE balayage"
+    },
+    "r_processus_instru_20": {
+      "termA": "clé",
+      "termB": "serrage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé DE serrage"
+    },
+    "r_processus_instru_21": {
+      "termA": "burin",
+      "termB": "gravure",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Burin DE gravure"
+    },
+    "r_processus_instru_22": {
+      "termA": "truelle",
+      "termB": "maçonnerie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Truelle DE maçonnerie"
+    },
+    "r_processus_instru_23": {
+      "termA": "ciseaux",
+      "termB": "coupe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseaux DE coupe"
+    },
+    "r_processus_instru_24": {
+      "termA": "spatule",
+      "termB": "cuisine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Spatule DE cuisine"
+    },
+    "r_processus_instru_25": {
+      "termA": "pinceau",
+      "termB": "vernissage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pinceau DE vernissage"
+    },
+    "r_processus_instru_26": {
+      "termA": "marteau",
+      "termB": "forgeage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Marteau DE forgeage"
+    },
+    "r_processus_instru_27": {
+      "termA": "couteau",
+      "termB": "sculpture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Couteau DE sculpture"
+    },
+    "r_processus_instru_28": {
+      "termA": "pelle",
+      "termB": "jardinage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pelle DE jardinage"
+    },
+    "r_processus_instru_29": {
+      "termA": "aiguille",
+      "termB": "tricot",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Aiguille DE tricot"
+    },
+    "r_processus_instru_30": {
+      "termA": "tournevis",
+      "termB": "montage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Tournevis DE montage"
+    },
+    "r_processus_instru_31": {
+      "termA": "pince",
+      "termB": "modelage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pince DE modelage"
+    },
+    "r_processus_instru_32": {
+      "termA": "scie",
+      "termB": "sciage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Scie DE sciage"
+    },
+    "r_processus_instru_33": {
+      "termA": "brosse",
+      "termB": "polissage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Brosse DE polissage"
+    },
+    "r_processus_instru_34": {
+      "termA": "ciseau",
+      "termB": "taille",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseau DE taille"
+    },
+    "r_processus_instru_35": {
+      "termA": "stylo",
+      "termB": "dessin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Stylo DE dessin"
+    },
+    "r_processus_instru_36": {
+      "termA": "râteau",
+      "termB": "nivellement",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Râteau DE nivellement"
+    },
+    "r_processus_instru_37": {
+      "termA": "hache",
+      "termB": "fendage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Hache DE fendage"
+    },
+    "r_processus_instru_38": {
+      "termA": "foret",
+      "termB": "forage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Foret DE forage"
+    },
+    "r_processus_instru_39": {
+      "termA": "cuillère",
+      "termB": "service",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Cuillère DE service"
+    },
+    "r_processus_instru_40": {
+      "termA": "fouet",
+      "termB": "cuisine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Fouet DE cuisine"
+    },
+    "r_processus_instru_41": {
+      "termA": "rouleau",
+      "termB": "pâtisserie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Rouleau DE pâtisserie"
+    },
+    "r_processus_instru_42": {
+      "termA": "balai",
+      "termB": "nettoyage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Balai DE nettoyage"
+    },
+    "r_processus_instru_43": {
+      "termA": "clé",
+      "termB": "réglage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé DE réglage"
+    },
+    "r_processus_instru_44": {
+      "termA": "burin",
+      "termB": "sculpture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Burin DE sculpture"
+    },
+    "r_processus_instru_45": {
+      "termA": "truelle",
+      "termB": "bétonnage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Truelle DE bétonnage"
+    },
+    "r_processus_instru_46": {
+      "termA": "ciseaux",
+      "termB": "couture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseaux DE couture"
+    },
+    "r_processus_instru_47": {
+      "termA": "spatule",
+      "termB": "maçonnerie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Spatule DE maçonnerie"
+    },
+    "r_processus_instru_48": {
+      "termA": "pinceau",
+      "termB": "laquage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pinceau DE laquage"
+    },
+    "r_processus_instru_49": {
+      "termA": "marteau",
+      "termB": "clouage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Marteau DE clouage"
+    },
+    "r_processus_instru_50": {
+      "termA": "couteau",
+      "termB": "découpe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Couteau DE découpe"
+    },
+    "r_processus_instru_51": {
+      "termA": "pelle",
+      "termB": "terrassement",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pelle DE terrassement"
+    },
+    "r_processus_instru_52": {
+      "termA": "aiguille",
+      "termB": "broderie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Aiguille DE broderie"
+    },
+    "r_processus_instru_53": {
+      "termA": "tournevis",
+      "termB": "démontage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Tournevis DE démontage"
+    },
+    "r_processus_instru_54": {
+      "termA": "pince",
+      "termB": "préhension",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pince DE préhension"
+    },
+    "r_processus_instru_55": {
+      "termA": "scie",
+      "termB": "taille",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Scie DE taille"
+    },
+    "r_processus_instru_56": {
+      "termA": "brosse",
+      "termB": "dépoussiérage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Brosse DE dépoussiérage"
+    },
+    "r_processus_instru_57": {
+      "termA": "ciseau",
+      "termB": "gravure",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseau DE gravure"
+    },
+    "r_processus_instru_58": {
+      "termA": "stylo",
+      "termB": "calligraphie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Stylo DE calligraphie"
+    },
+    "r_processus_instru_59": {
+      "termA": "râteau",
+      "termB": "jardinage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Râteau DE jardinage"
+    },
+    "r_processus_instru_60": {
+      "termA": "hache",
+      "termB": "bûcheron",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Hache DE bûcheron"
+    },
+    "r_processus_instru_61": {
+      "termA": "foret",
+      "termB": "perçage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Foret DE perçage"
+    },
+    "r_processus_instru_62": {
+      "termA": "cuillère",
+      "termB": "dégustation",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Cuillère DE dégustation"
+    },
+    "r_processus_instru_63": {
+      "termA": "fouet",
+      "termB": "mélange",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Fouet DE mélange"
+    },
+    "r_processus_instru_64": {
+      "termA": "rouleau",
+      "termB": "lissage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Rouleau DE lissage"
+    },
+    "r_processus_instru_65": {
+      "termA": "balai",
+      "termB": "ramassage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Balai DE ramassage"
+    },
+    "r_processus_instru_66": {
+      "termA": "clé",
+      "termB": "ajustement",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé D'ajustement"
+    },
+    "r_processus_instru_67": {
+      "termA": "burin",
+      "termB": "taille",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Burin DE taille"
+    },
+    "r_processus_instru_68": {
+      "termA": "truelle",
+      "termB": "plâtrage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Truelle DE plâtrage"
+    },
+    "r_processus_instru_69": {
+      "termA": "ciseaux",
+      "termB": "papier",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseaux DE papier"
+    },
+    "r_processus_instru_70": {
+      "termA": "spatule",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Spatule DE peinture"
+    },
+    "r_processus_instru_71": {
+      "termA": "pinceau",
+      "termB": "retouche",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pinceau DE retouche"
+    },
+    "r_processus_instru_72": {
+      "termA": "marteau",
+      "termB": "martelage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Marteau DE martelage"
+    },
+    "r_processus_instru_73": {
+      "termA": "couteau",
+      "termB": "boucherie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Couteau DE boucherie"
+    },
+    "r_processus_instru_74": {
+      "termA": "pelle",
+      "termB": "déneigement",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pelle DE déneigement"
+    },
+    "r_processus_instru_75": {
+      "termA": "aiguille",
+      "termB": "tapisserie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Aiguille DE tapisserie"
+    },
+    "r_processus_instru_76": {
+      "termA": "tournevis",
+      "termB": "précision",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Tournevis DE précision"
+    },
+    "r_processus_instru_77": {
+      "termA": "pince",
+      "termB": "découpe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pince DE découpe"
+    },
+    "r_processus_instru_78": {
+      "termA": "scie",
+      "termB": "menuiserie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Scie DE menuiserie"
+    },
+    "r_processus_instru_79": {
+      "termA": "brosse",
+      "termB": "lissage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Brosse DE lissage"
+    },
+    "r_processus_instru_80": {
+      "termA": "ciseau",
+      "termB": "modelage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseau DE modelage"
+    },
+    "r_processus_instru_81": {
+      "termA": "stylo",
+      "termB": "marquage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Stylo DE marquage"
+    },
+    "r_processus_instru_82": {
+      "termA": "râteau",
+      "termB": "ramassage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Râteau DE ramassage"
+    },
+    "r_processus_instru_83": {
+      "termA": "hache",
+      "termB": "défrichage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Hache DE défrichage"
+    },
+    "r_processus_instru_84": {
+      "termA": "foret",
+      "termB": "maçonnerie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Foret DE maçonnerie"
+    },
+    "r_processus_instru_85": {
+      "termA": "cuillère",
+      "termB": "mesure",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Cuillère DE mesure"
+    },
+    "r_processus_instru_86": {
+      "termA": "fouet",
+      "termB": "pâtisserie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Fouet DE pâtisserie"
+    },
+    "r_processus_instru_87": {
+      "termA": "rouleau",
+      "termB": "pressage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Rouleau DE pressage"
+    },
+    "r_processus_instru_88": {
+      "termA": "balai",
+      "termB": "lavage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Balai DE lavage"
+    },
+    "r_processus_instru_89": {
+      "termA": "clé",
+      "termB": "boulonnage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Clé DE boulonnage"
+    },
+    "r_processus_instru_90": {
+      "termA": "burin",
+      "termB": "découpe",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Burin DE découpe"
+    },
+    "r_processus_instru_91": {
+      "termA": "truelle",
+      "termB": "jardinage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Truelle DE jardinage"
+    },
+    "r_processus_instru_92": {
+      "termA": "ciseaux",
+      "termB": "tailleur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Ciseaux DE tailleur"
+    },
+    "r_processus_instru_93": {
+      "termA": "spatule",
+      "termB": "glaçage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Spatule DE glaçage"
+    },
+    "r_processus_instru_94": {
+      "termA": "pinceau",
+      "termB": "maquillage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pinceau DE maquillage"
+    },
+    "r_processus_instru_95": {
+      "termA": "marteau",
+      "termB": "façonnage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Marteau DE façonnage"
+    },
+    "r_processus_instru_96": {
+      "termA": "couteau",
+      "termB": "gravure",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Couteau DE gravure"
+    },
+    "r_processus_instru_97": {
+      "termA": "pelle",
+      "termB": "sable",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_processus_instru",
+      "raw": "Pelle DE sable"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+gensim>=4.3.2
+numpy<2.0,>=1.26
+pandas>=2.0
+pydantic>=2.6
+requests>=2.31
+typer>=0.12
+scipy>=1.10
+scikit-learn>=1.4
+tqdm>=4.66
+matplotlib>=3.7
+seaborn>=0.13
+optuna>=4.0
+loguru>=0.7

@@ -1,0 +1,896 @@
+{
+  "label": "r_own",
+  "data": {
+    "r_own_0": {
+      "termA": "fusil",
+      "termB": "soldat",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Fusil DU soldat"
+    },
+    "r_own_1": {
+      "termA": "vélo",
+      "termB": "cycliste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Vélo DU cycliste"
+    },
+    "r_own_2": {
+      "termA": "livre",
+      "termB": "étudiant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Livre DE l'étudiant"
+    },
+    "r_own_3": {
+      "termA": "pinceau",
+      "termB": "artiste",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Pinceau DE l'artiste"
+    },
+    "r_own_4": {
+      "termA": "sac",
+      "termB": "écolier",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Sac DE l'écolier"
+    },
+    "r_own_5": {
+      "termA": "camion",
+      "termB": "chauffeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Camion DU chauffeur"
+    },
+    "r_own_6": {
+      "termA": "guitare",
+      "termB": "musicien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Guitare DU musicien"
+    },
+    "r_own_7": {
+      "termA": "téléphone",
+      "termB": "cadre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Téléphone DU cadre"
+    },
+    "r_own_8": {
+      "termA": "couteau",
+      "termB": "chef",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Couteau DU chef"
+    },
+    "r_own_9": {
+      "termA": "bateau",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Bateau DU pêcheur"
+    },
+    "r_own_10": {
+      "termA": "ordinateur",
+      "termB": "programmeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Ordinateur DU programmeur"
+    },
+    "r_own_11": {
+      "termA": "balai",
+      "termB": "sorcière",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Balai DE la sorcière"
+    },
+    "r_own_12": {
+      "termA": "balle",
+      "termB": "joueur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Balle DU joueur"
+    },
+    "r_own_13": {
+      "termA": "appareil",
+      "termB": "photographe",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Appareil DU photographe"
+    },
+    "r_own_14": {
+      "termA": "chapeau",
+      "termB": "magicien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Chapeau DU magicien"
+    },
+    "r_own_15": {
+      "termA": "valise",
+      "termB": "voyageur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Valise DU voyageur"
+    },
+    "r_own_16": {
+      "termA": "plume",
+      "termB": "écrivain",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Plume DE l'écrivain"
+    },
+    "r_own_17": {
+      "termA": "cheval",
+      "termB": "cavalier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Cheval DU cavalier"
+    },
+    "r_own_18": {
+      "termA": "microscope",
+      "termB": "scientifique",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Microscope DU scientifique"
+    },
+    "r_own_19": {
+      "termA": "baguette",
+      "termB": "orchestre",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Baguette DU chef d'orchestre"
+    },
+    "r_own_20": {
+      "termA": "poussette",
+      "termB": "mère",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Poussette DE la mère"
+    },
+    "r_own_21": {
+      "termA": "canne",
+      "termB": "vieillard",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Canne DU vieillard"
+    },
+    "r_own_22": {
+      "termA": "épée",
+      "termB": "chevalier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Épée DU chevalier"
+    },
+    "r_own_23": {
+      "termA": "sacoche",
+      "termB": "facteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sacoche DU facteur"
+    },
+    "r_own_24": {
+      "termA": "planche",
+      "termB": "surfeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Planche DU surfeur"
+    },
+    "r_own_25": {
+      "termA": "raquette",
+      "termB": "tennisman",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Raquette DU tennisman"
+    },
+    "r_own_26": {
+      "termA": "clavier",
+      "termB": "pianiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Clavier DU pianiste"
+    },
+    "r_own_27": {
+      "termA": "carnet",
+      "termB": "journaliste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Carnet DU journaliste"
+    },
+    "r_own_28": {
+      "termA": "stéthoscope",
+      "termB": "médecin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Stéthoscope DU médecin"
+    },
+    "r_own_29": {
+      "termA": "bâton",
+      "termB": "randonneur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Bâton DU randonneur"
+    },
+    "r_own_30": {
+      "termA": "trousse",
+      "termB": "infirmière",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Trousse DE l'infirmière"
+    },
+    "r_own_31": {
+      "termA": "marteau",
+      "termB": "forgeron",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Marteau DU forgeron"
+    },
+    "r_own_32": {
+      "termA": "pinceau",
+      "termB": "maquilleur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Pinceau DU maquilleur"
+    },
+    "r_own_33": {
+      "termA": "voiture",
+      "termB": "pilote",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Voiture DU pilote"
+    },
+    "r_own_34": {
+      "termA": "chaise",
+      "termB": "professeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Chaise DU professeur"
+    },
+    "r_own_35": {
+      "termA": "palette",
+      "termB": "peintre",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Palette DU peintre"
+    },
+    "r_own_36": {
+      "termA": "sac",
+      "termB": "randonneur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sac DU randonneur"
+    },
+    "r_own_37": {
+      "termA": "filet",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Filet DU pêcheur"
+    },
+    "r_own_38": {
+      "termA": "téléscope",
+      "termB": "astronome",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Téléscope DE l'astronome"
+    },
+    "r_own_39": {
+      "termA": "casque",
+      "termB": "motard",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Casque DU motard"
+    },
+    "r_own_40": {
+      "termA": "arc",
+      "termB": "chasseur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Arc DU chasseur"
+    },
+    "r_own_41": {
+      "termA": "baguette",
+      "termB": "fée",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Baguette DE la fée"
+    },
+    "r_own_42": {
+      "termA": "balle",
+      "termB": "basketteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Balle DU basketteur"
+    },
+    "r_own_43": {
+      "termA": "costume",
+      "termB": "danseur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Costume DU danseur"
+    },
+    "r_own_44": {
+      "termA": "caméra",
+      "termB": "cinéaste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Caméra DU cinéaste"
+    },
+    "r_own_45": {
+      "termA": "corde",
+      "termB": "grimpeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Corde DU grimpeur"
+    },
+    "r_own_46": {
+      "termA": "livre",
+      "termB": "bibliothécaire",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Livre DU bibliothécaire"
+    },
+    "r_own_47": {
+      "termA": "outil",
+      "termB": "mécanicien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Outil DU mécanicien"
+    },
+    "r_own_48": {
+      "termA": "sac",
+      "termB": "couturière",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Sac DE la couturière"
+    },
+    "r_own_49": {
+      "termA": "canne",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Canne DU pêcheur"
+    },
+    "r_own_50": {
+      "termA": "poussette",
+      "termB": "père",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Poussette DU père"
+    },
+    "r_own_51": {
+      "termA": "écharpe",
+      "termB": "hivernant",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Écharpe DE l'hivernant"
+    },
+    "r_own_52": {
+      "termA": "gant",
+      "termB": "boxeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Gant DU boxeur"
+    },
+    "r_own_53": {
+      "termA": "carte",
+      "termB": "navigateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Carte DU navigateur"
+    },
+    "r_own_54": {
+      "termA": "chisel",
+      "termB": "sculpteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Chisel DU sculpteur"
+    },
+    "r_own_55": {
+      "termA": "truelle",
+      "termB": "maçon",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Truelle DU maçon"
+    },
+    "r_own_56": {
+      "termA": "parapluie",
+      "termB": "passant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Parapluie DU passant"
+    },
+    "r_own_57": {
+      "termA": "sacoche",
+      "termB": "médecin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sacoche DU médecin"
+    },
+    "r_own_58": {
+      "termA": "flûte",
+      "termB": "musicien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Flûte DU musicien"
+    },
+    "r_own_59": {
+      "termA": "planche",
+      "termB": "skateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Planche DU skateur"
+    },
+    "r_own_60": {
+      "termA": "montre",
+      "termB": "coureur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Montre DU coureur"
+    },
+    "r_own_61": {
+      "termA": "lunettes",
+      "termB": "opticien",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Lunettes DE l'opticien"
+    },
+    "r_own_62": {
+      "termA": "trousse",
+      "termB": "maquilleur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Trousse DU maquilleur"
+    },
+    "r_own_63": {
+      "termA": "sac",
+      "termB": "aventurier",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Sac DE l'aventurier"
+    },
+    "r_own_64": {
+      "termA": "baton",
+      "termB": "guide",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Baton DU guide"
+    },
+    "r_own_65": {
+      "termA": "casque",
+      "termB": "pompier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Casque DU pompier"
+    },
+    "r_own_66": {
+      "termA": "bague",
+      "termB": "mariée",
+      "preposition": "de",
+      "determinant": "la",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Bague DE la mariée"
+    },
+    "r_own_67": {
+      "termA": "carnet",
+      "termB": "dessinateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Carnet DU dessinateur"
+    },
+    "r_own_68": {
+      "termA": "chaussures",
+      "termB": "coureur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Chaussures DU coureur"
+    },
+    "r_own_69": {
+      "termA": "épée",
+      "termB": "samouraï",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Épée DU samouraï"
+    },
+    "r_own_70": {
+      "termA": "sac",
+      "termB": "campeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sac DU campeur"
+    },
+    "r_own_71": {
+      "termA": "couteau",
+      "termB": "boucher",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Couteau DU boucher"
+    },
+    "r_own_72": {
+      "termA": "appareil",
+      "termB": "dentiste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Appareil DU dentiste"
+    },
+    "r_own_73": {
+      "termA": "bâton",
+      "termB": "skieur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Bâton DU skieur"
+    },
+    "r_own_74": {
+      "termA": "filet",
+      "termB": "gardien",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Filet DU gardien"
+    },
+    "r_own_75": {
+      "termA": "pinceau",
+      "termB": "décorateur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Pinceau DU décorateur"
+    },
+    "r_own_76": {
+      "termA": "tapis",
+      "termB": "yogi",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Tapis DU yogi"
+    },
+    "r_own_77": {
+      "termA": "camion",
+      "termB": "déménageur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Camion DU déménageur"
+    },
+    "r_own_78": {
+      "termA": "chaise",
+      "termB": "directeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Chaise DU directeur"
+    },
+    "r_own_79": {
+      "termA": "sacoche",
+      "termB": "livreur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sacoche DU livreur"
+    },
+    "r_own_80": {
+      "termA": "violon",
+      "termB": "violoniste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Violon DU violoniste"
+    },
+    "r_own_81": {
+      "termA": "planche",
+      "termB": "menuisier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Planche DU menuisier"
+    },
+    "r_own_82": {
+      "termA": "caméra",
+      "termB": "reporter",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Caméra DU reporter"
+    },
+    "r_own_83": {
+      "termA": "sac",
+      "termB": "jardinier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sac DU jardinier"
+    },
+    "r_own_84": {
+      "termA": "casque",
+      "termB": "cycliste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Casque DU cycliste"
+    },
+    "r_own_85": {
+      "termA": "balle",
+      "termB": "golfeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Balle DU golfeur"
+    },
+    "r_own_86": {
+      "termA": "pinceau",
+      "termB": "calligraphe",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Pinceau DU calligraphe"
+    },
+    "r_own_87": {
+      "termA": "corde",
+      "termB": "marin",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Corde DU marin"
+    },
+    "r_own_88": {
+      "termA": "livre",
+      "termB": "chercheur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Livre DU chercheur"
+    },
+    "r_own_89": {
+      "termA": "outil",
+      "termB": "bricoleur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Outil DU bricoleur"
+    },
+    "r_own_90": {
+      "termA": "sac",
+      "termB": "étudiante",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_own",
+      "raw": "Sac DE l'étudiante"
+    },
+    "r_own_91": {
+      "termA": "baton",
+      "termB": "chef",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Baton DU chef"
+    },
+    "r_own_92": {
+      "termA": "raquette",
+      "termB": "badminton",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Raquette DU badminton"
+    },
+    "r_own_93": {
+      "termA": "trousse",
+      "termB": "coiffeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Trousse DU coiffeur"
+    },
+    "r_own_94": {
+      "termA": "palette",
+      "termB": "cuisinier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Palette DU cuisinier"
+    },
+    "r_own_95": {
+      "termA": "planche",
+      "termB": "charpentier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Planche DU charpentier"
+    },
+    "r_own_96": {
+      "termA": "caméra",
+      "termB": "vidéaste",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Caméra DU vidéaste"
+    },
+    "r_own_97": {
+      "termA": "sac",
+      "termB": "voyageur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Sac DU voyageur"
+    },
+    "r_own_98": {
+      "termA": "baguette",
+      "termB": "sorcier",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_own",
+      "raw": "Baguette DU sorcier"
+    }
+  }
+}

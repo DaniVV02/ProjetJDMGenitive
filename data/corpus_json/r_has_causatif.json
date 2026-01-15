@@ -1,0 +1,887 @@
+{
+  "label": "r_has_causatif",
+  "data": {
+    "r_has_causatif_0": {
+      "termA": "épuisé",
+      "termB": "stress",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE stress"
+    },
+    "r_has_causatif_1": {
+      "termA": "trempé",
+      "termB": "pluie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé DE pluie"
+    },
+    "r_has_causatif_2": {
+      "termA": "malade",
+      "termB": "froid",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Malade DE froid"
+    },
+    "r_has_causatif_3": {
+      "termA": "étourdi",
+      "termB": "chaleur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Étourdi DE chaleur"
+    },
+    "r_has_causatif_4": {
+      "termA": "affaibli",
+      "termB": "faim",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Affaibli DE faim"
+    },
+    "r_has_causatif_5": {
+      "termA": "blessé",
+      "termB": "chute",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé DE chute"
+    },
+    "r_has_causatif_6": {
+      "termA": "enroué",
+      "termB": "cris",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Enroué DE cris"
+    },
+    "r_has_causatif_7": {
+      "termA": "aveuglé",
+      "termB": "lumière",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Aveuglé DE lumière"
+    },
+    "r_has_causatif_8": {
+      "termA": "épuisé",
+      "termB": "travail",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE travail"
+    },
+    "r_has_causatif_9": {
+      "termA": "gelé",
+      "termB": "vent",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé DE vent"
+    },
+    "r_has_causatif_10": {
+      "termA": "épuisé",
+      "termB": "surmenage",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU surmenage"
+    },
+    "r_has_causatif_11": {
+      "termA": "couvert",
+      "termB": "boue",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Couvert DE boue"
+    },
+    "r_has_causatif_12": {
+      "termA": "ébloui",
+      "termB": "soleil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DU soleil"
+    },
+    "r_has_causatif_13": {
+      "termA": "éreinté",
+      "termB": "fatigue",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté DE fatigue"
+    },
+    "r_has_causatif_14": {
+      "termA": "tremblant",
+      "termB": "émotion",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Tremblant D'émotion"
+    },
+    "r_has_causatif_15": {
+      "termA": "écorché",
+      "termB": "ronces",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Écorché DE ronces"
+    },
+    "r_has_causatif_16": {
+      "termA": "épuisé",
+      "termB": "efforts",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé D'efforts"
+    },
+    "r_has_causatif_17": {
+      "termA": "glacé",
+      "termB": "peur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Glacé DE peur"
+    },
+    "r_has_causatif_18": {
+      "termA": "brûlé",
+      "termB": "feu",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Brûlé DU feu"
+    },
+    "r_has_causatif_19": {
+      "termA": "émerveillé",
+      "termB": "beauté",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Émerveillé DE beauté"
+    },
+    "r_has_causatif_20": {
+      "termA": "souillé",
+      "termB": "peinture",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Souillé DE peinture"
+    },
+    "r_has_causatif_21": {
+      "termA": "étourdi",
+      "termB": "altitude",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Étourdi D'altitude"
+    },
+    "r_has_causatif_22": {
+      "termA": "étouffé",
+      "termB": "fumée",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Étouffé DE fumée"
+    },
+    "r_has_causatif_23": {
+      "termA": "affamé",
+      "termB": "privation",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Affamé DE privation"
+    },
+    "r_has_causatif_24": {
+      "termA": "épuisé",
+      "termB": "course",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE course"
+    },
+    "r_has_causatif_25": {
+      "termA": "enroué",
+      "termB": "chant",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Enroué DU chant"
+    },
+    "r_has_causatif_26": {
+      "termA": "ébloui",
+      "termB": "éclat",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui D'éclat"
+    },
+    "r_has_causatif_27": {
+      "termA": "trempé",
+      "termB": "eau",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé D'eau"
+    },
+    "r_has_causatif_28": {
+      "termA": "gelé",
+      "termB": "froid",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé DU froid"
+    },
+    "r_has_causatif_29": {
+      "termA": "épuisé",
+      "termB": "chaleur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE chaleur"
+    },
+    "r_has_causatif_30": {
+      "termA": "blessé",
+      "termB": "accident",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé D'accident"
+    },
+    "r_has_causatif_31": {
+      "termA": "ému",
+      "termB": "joie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ému DE joie"
+    },
+    "r_has_causatif_32": {
+      "termA": "épuisé",
+      "termB": "voyage",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU voyage"
+    },
+    "r_has_causatif_33": {
+      "termA": "criblé",
+      "termB": "dettes",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Criblé DE dettes"
+    },
+    "r_has_causatif_34": {
+      "termA": "éreinté",
+      "termB": "labeur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté DE labeur"
+    },
+    "r_has_causatif_35": {
+      "termA": "aveuglé",
+      "termB": "flash",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Aveuglé DU flash"
+    },
+    "r_has_causatif_36": {
+      "termA": "tremblant",
+      "termB": "froid",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Tremblant DE froid"
+    },
+    "r_has_causatif_37": {
+      "termA": "épuisé",
+      "termB": "insomnie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé D'insomnie"
+    },
+    "r_has_causatif_38": {
+      "termA": "étourdi",
+      "termB": "vertige",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Étourdi DE vertige"
+    },
+    "r_has_causatif_39": {
+      "termA": "écorché",
+      "termB": "frottement",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Écorché DU frottement"
+    },
+    "r_has_causatif_40": {
+      "termA": "malade",
+      "termB": "fièvre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Malade DE fièvre"
+    },
+    "r_has_causatif_41": {
+      "termA": "épuisé",
+      "termB": "jeûne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE jeûne"
+    },
+    "r_has_causatif_42": {
+      "termA": "glacé",
+      "termB": "effroi",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Glacé D'effroi"
+    },
+    "r_has_causatif_43": {
+      "termA": "souillé",
+      "termB": "huile",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Souillé D'huile"
+    },
+    "r_has_causatif_44": {
+      "termA": "ébloui",
+      "termB": "splendeur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DE splendeur"
+    },
+    "r_has_causatif_45": {
+      "termA": "épuisé",
+      "termB": "combat",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU combat"
+    },
+    "r_has_causatif_46": {
+      "termA": "trempé",
+      "termB": "sueur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé DE sueur"
+    },
+    "r_has_causatif_47": {
+      "termA": "gelé",
+      "termB": "glace",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé DE glace"
+    },
+    "r_has_causatif_48": {
+      "termA": "éreinté",
+      "termB": "marche",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté DE marche"
+    },
+    "r_has_causatif_49": {
+      "termA": "blessé",
+      "termB": "coup",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé DE coup"
+    },
+    "r_has_causatif_50": {
+      "termA": "ému",
+      "termB": "émotion",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ému D'émotion"
+    },
+    "r_has_causatif_51": {
+      "termA": "épuisé",
+      "termB": "tension",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE tension"
+    },
+    "r_has_causatif_52": {
+      "termA": "couvert",
+      "termB": "poussière",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Couvert DE poussière"
+    },
+    "r_has_causatif_53": {
+      "termA": "ébloui",
+      "termB": "projecteur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DU projecteur"
+    },
+    "r_has_causatif_54": {
+      "termA": "tremblant",
+      "termB": "colère",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Tremblant DE colère"
+    },
+    "r_has_causatif_55": {
+      "termA": "écorché",
+      "termB": "griffures",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Écorché DE griffures"
+    },
+    "r_has_causatif_56": {
+      "termA": "malade",
+      "termB": "angoisse",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Malade D'angoisse"
+    },
+    "r_has_causatif_57": {
+      "termA": "épuisé",
+      "termB": "marathon",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU marathon"
+    },
+    "r_has_causatif_58": {
+      "termA": "glacé",
+      "termB": "terreur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Glacé DE terreur"
+    },
+    "r_has_causatif_59": {
+      "termA": "souillé",
+      "termB": "graisse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Souillé DE graisse"
+    },
+    "r_has_causatif_60": {
+      "termA": "ébloui",
+      "termB": "couleurs",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DE couleurs"
+    },
+    "r_has_causatif_61": {
+      "termA": "épuisé",
+      "termB": "douleur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE douleur"
+    },
+    "r_has_causatif_62": {
+      "termA": "trempé",
+      "termB": "averse",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé D'averse"
+    },
+    "r_has_causatif_63": {
+      "termA": "gelé",
+      "termB": "hiver",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé D'hiver"
+    },
+    "r_has_causatif_64": {
+      "termA": "éreinté",
+      "termB": "sport",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté DE sport"
+    },
+    "r_has_causatif_65": {
+      "termA": "blessé",
+      "termB": "éraflure",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé D'éraflure"
+    },
+    "r_has_causatif_66": {
+      "termA": "ému",
+      "termB": "tristesse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ému DE tristesse"
+    },
+    "r_has_causatif_67": {
+      "termA": "épuisé",
+      "termB": "stress",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU stress"
+    },
+    "r_has_causatif_68": {
+      "termA": "couvert",
+      "termB": "sable",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Couvert DE sable"
+    },
+    "r_has_causatif_69": {
+      "termA": "ébloui",
+      "termB": "étincelles",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui D'étincelles"
+    },
+    "r_has_causatif_70": {
+      "termA": "tremblant",
+      "termB": "excitation",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Tremblant D'excitation"
+    },
+    "r_has_causatif_71": {
+      "termA": "écorché",
+      "termB": "pierres",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Écorché DE pierres"
+    },
+    "r_has_causatif_72": {
+      "termA": "malade",
+      "termB": "surmenage",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Malade DE surmenage"
+    },
+    "r_has_causatif_73": {
+      "termA": "épuisé",
+      "termB": "attente",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé D'attente"
+    },
+    "r_has_causatif_74": {
+      "termA": "glacé",
+      "termB": "frissons",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Glacé DE frissons"
+    },
+    "r_has_causatif_75": {
+      "termA": "souillé",
+      "termB": "terre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Souillé DE terre"
+    },
+    "r_has_causatif_76": {
+      "termA": "ébloui",
+      "termB": "reflets",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DE reflets"
+    },
+    "r_has_causatif_77": {
+      "termA": "épuisé",
+      "termB": "cris",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE cris"
+    },
+    "r_has_causatif_78": {
+      "termA": "trempé",
+      "termB": "vagues",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé DE vagues"
+    },
+    "r_has_causatif_79": {
+      "termA": "gelé",
+      "termB": "neige",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé DE neige"
+    },
+    "r_has_causatif_80": {
+      "termA": "éreinté",
+      "termB": "effort",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté D'effort"
+    },
+    "r_has_causatif_81": {
+      "termA": "blessé",
+      "termB": "brûlure",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé DE brûlure"
+    },
+    "r_has_causatif_82": {
+      "termA": "ému",
+      "termB": "nostalgie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ému DE nostalgie"
+    },
+    "r_has_causatif_83": {
+      "termA": "épuisé",
+      "termB": "chaleur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE chaleur"
+    },
+    "r_has_causatif_84": {
+      "termA": "couvert",
+      "termB": "suie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Couvert DE suie"
+    },
+    "r_has_causatif_85": {
+      "termA": "ébloui",
+      "termB": "néon",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DU néon"
+    },
+    "r_has_causatif_86": {
+      "termA": "tremblant",
+      "termB": "fièvre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Tremblant DE fièvre"
+    },
+    "r_has_causatif_87": {
+      "termA": "écorché",
+      "termB": "branches",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Écorché DE branches"
+    },
+    "r_has_causatif_88": {
+      "termA": "malade",
+      "termB": "épuisement",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Malade D'épuisement"
+    },
+    "r_has_causatif_89": {
+      "termA": "épuisé",
+      "termB": "labeur",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DU labeur"
+    },
+    "r_has_causatif_90": {
+      "termA": "glacé",
+      "termB": "solitude",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Glacé DE solitude"
+    },
+    "r_has_causatif_91": {
+      "termA": "souillé",
+      "termB": "cendres",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Souillé DE cendres"
+    },
+    "r_has_causatif_92": {
+      "termA": "ébloui",
+      "termB": "clarté",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Ébloui DE clarté"
+    },
+    "r_has_causatif_93": {
+      "termA": "épuisé",
+      "termB": "danse",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Épuisé DE danse"
+    },
+    "r_has_causatif_94": {
+      "termA": "trempé",
+      "termB": "rosée",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Trempé DE rosée"
+    },
+    "r_has_causatif_95": {
+      "termA": "gelé",
+      "termB": "humidité",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Gelé D'humidité"
+    },
+    "r_has_causatif_96": {
+      "termA": "éreinté",
+      "termB": "fatigue",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Éreinté DE fatigue"
+    },
+    "r_has_causatif_97": {
+      "termA": "blessé",
+      "termB": "impact",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_has_causatif",
+      "raw": "Blessé D'impact"
+    }
+  }
+}

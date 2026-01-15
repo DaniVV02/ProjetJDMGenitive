@@ -1,0 +1,896 @@
+{
+  "label": "r_lieu",
+  "data": {
+    "r_lieu_0": {
+      "termA": "tour",
+      "termB": "pise",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Tour DE Pise"
+    },
+    "r_lieu_1": {
+      "termA": "sahara",
+      "termB": "algérie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Sahara D'Algérie"
+    },
+    "r_lieu_2": {
+      "termA": "pyramides",
+      "termB": "égypte",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Pyramides D'Égypte"
+    },
+    "r_lieu_3": {
+      "termA": "muraille",
+      "termB": "chine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Muraille DE Chine"
+    },
+    "r_lieu_4": {
+      "termA": "carnaval",
+      "termB": "rio",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Carnaval DE Rio"
+    },
+    "r_lieu_5": {
+      "termA": "canals",
+      "termB": "amsterdam",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Canals D'Amsterdam"
+    },
+    "r_lieu_6": {
+      "termA": "temple",
+      "termB": "angkor",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple D'Angkor"
+    },
+    "r_lieu_7": {
+      "termA": "colisée",
+      "termB": "rome",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Colisée DE Rome"
+    },
+    "r_lieu_8": {
+      "termA": "taj",
+      "termB": "inde",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Taj Mahal D'Inde"
+    },
+    "r_lieu_9": {
+      "termA": "fjords",
+      "termB": "norvège",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Fjords DE Norvège"
+    },
+    "r_lieu_10": {
+      "termA": "machu",
+      "termB": "pérou",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Machu Picchu DU Pérou"
+    },
+    "r_lieu_11": {
+      "termA": "statue",
+      "termB": "new",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Statue DE New York"
+    },
+    "r_lieu_12": {
+      "termA": "opéra",
+      "termB": "sydney",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Opéra DE Sydney"
+    },
+    "r_lieu_13": {
+      "termA": "montagne",
+      "termB": "kilimandjaro",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Montagne DU Kilimandjaro"
+    },
+    "r_lieu_14": {
+      "termA": "chutes",
+      "termB": "niagara",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Chutes DU Niagara"
+    },
+    "r_lieu_15": {
+      "termA": "forêt",
+      "termB": "amazonie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Forêt D'Amazonie"
+    },
+    "r_lieu_16": {
+      "termA": "désert",
+      "termB": "atacama",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Désert D'Atacama"
+    },
+    "r_lieu_17": {
+      "termA": "palais",
+      "termB": "versailles",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Palais DE Versailles"
+    },
+    "r_lieu_18": {
+      "termA": "acropole",
+      "termB": "athènes",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Acropole D'Athènes"
+    },
+    "r_lieu_19": {
+      "termA": "lac",
+      "termB": "baïkal",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Lac DU Baïkal"
+    },
+    "r_lieu_20": {
+      "termA": "volcan",
+      "termB": "hawaï",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Volcan DE Hawaï"
+    },
+    "r_lieu_21": {
+      "termA": "pont",
+      "termB": "lisbonne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Pont DE Lisbonne"
+    },
+    "r_lieu_22": {
+      "termA": "îles",
+      "termB": "galápagos",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Îles DES Galápagos"
+    },
+    "r_lieu_23": {
+      "termA": "glacier",
+      "termB": "patagonie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Glacier DE Patagonie"
+    },
+    "r_lieu_24": {
+      "termA": "marché",
+      "termB": "marrakech",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Marché DE Marrakech"
+    },
+    "r_lieu_25": {
+      "termA": "tour",
+      "termB": "londres",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Tour DE Londres"
+    },
+    "r_lieu_26": {
+      "termA": "cathédrale",
+      "termB": "moscou",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Cathédrale DE Moscou"
+    },
+    "r_lieu_27": {
+      "termA": "plage",
+      "termB": "bali",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Bali"
+    },
+    "r_lieu_28": {
+      "termA": "temple",
+      "termB": "kyoto",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple DE Kyoto"
+    },
+    "r_lieu_29": {
+      "termA": "canyon",
+      "termB": "colorado",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Canyon DU Colorado"
+    },
+    "r_lieu_30": {
+      "termA": "château",
+      "termB": "bavière",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Château DE Bavière"
+    },
+    "r_lieu_31": {
+      "termA": "falaise",
+      "termB": "irlande",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Falaise D'Irlande"
+    },
+    "r_lieu_32": {
+      "termA": "souk",
+      "termB": "dubaï",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Souk DE Dubaï"
+    },
+    "r_lieu_33": {
+      "termA": "pont",
+      "termB": "san",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Pont DE San Francisco"
+    },
+    "r_lieu_34": {
+      "termA": "mont",
+      "termB": "fuji",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Mont DU Fuji"
+    },
+    "r_lieu_35": {
+      "termA": "ruines",
+      "termB": "pétra",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Ruines DE Pétra"
+    },
+    "r_lieu_36": {
+      "termA": "delta",
+      "termB": "mékong",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Delta DU Mékong"
+    },
+    "r_lieu_37": {
+      "termA": "grottes",
+      "termB": "cappadoce",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Grottes DE Cappadoce"
+    },
+    "r_lieu_38": {
+      "termA": "parc",
+      "termB": "yellowstone",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Parc DE Yellowstone"
+    },
+    "r_lieu_39": {
+      "termA": "temple",
+      "termB": "égypte",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple D'Égypte"
+    },
+    "r_lieu_40": {
+      "termA": "île",
+      "termB": "santorin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Île DE Santorin"
+    },
+    "r_lieu_41": {
+      "termA": "vallée",
+      "termB": "napa",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Vallée DE Napa"
+    },
+    "r_lieu_42": {
+      "termA": "forêt",
+      "termB": "schwarzwald",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Forêt DE Schwarzwald"
+    },
+    "r_lieu_43": {
+      "termA": "plage",
+      "termB": "copacabana",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Copacabana"
+    },
+    "r_lieu_44": {
+      "termA": "tour",
+      "termB": "dubaï",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Tour DE Dubaï"
+    },
+    "r_lieu_45": {
+      "termA": "lac",
+      "termB": "côme",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Lac DE Côme"
+    },
+    "r_lieu_46": {
+      "termA": "volcan",
+      "termB": "etna",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Volcan D'Etna"
+    },
+    "r_lieu_47": {
+      "termA": "fjord",
+      "termB": "milford",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Fjord DE Milford"
+    },
+    "r_lieu_48": {
+      "termA": "palais",
+      "termB": "bangkok",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Palais DE Bangkok"
+    },
+    "r_lieu_49": {
+      "termA": "désert",
+      "termB": "gobi",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Désert DE Gobi"
+    },
+    "r_lieu_50": {
+      "termA": "îles",
+      "termB": "phi",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Îles DE Phi Phi"
+    },
+    "r_lieu_51": {
+      "termA": "cathédrale",
+      "termB": "barcelone",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Cathédrale DE Barcelone"
+    },
+    "r_lieu_52": {
+      "termA": "montagne",
+      "termB": "alpes",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Montagne DES Alpes"
+    },
+    "r_lieu_53": {
+      "termA": "plage",
+      "termB": "miami",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Miami"
+    },
+    "r_lieu_54": {
+      "termA": "temple",
+      "termB": "bali",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple DE Bali"
+    },
+    "r_lieu_55": {
+      "termA": "rivière",
+      "termB": "nil",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Rivière DU Nil"
+    },
+    "r_lieu_56": {
+      "termA": "château",
+      "termB": "loire",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Château DE Loire"
+    },
+    "r_lieu_57": {
+      "termA": "île",
+      "termB": "pâques",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Île DE Pâques"
+    },
+    "r_lieu_58": {
+      "termA": "parc",
+      "termB": "serengeti",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Parc DE Serengeti"
+    },
+    "r_lieu_59": {
+      "termA": "pont",
+      "termB": "brooklyn",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Pont DE Brooklyn"
+    },
+    "r_lieu_60": {
+      "termA": "forêt",
+      "termB": "congo",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Forêt DU Congo"
+    },
+    "r_lieu_61": {
+      "termA": "marché",
+      "termB": "istanbul",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Marché DE Istanbul"
+    },
+    "r_lieu_62": {
+      "termA": "mont",
+      "termB": "everest",
+      "preposition": "de",
+      "determinant": "l'",
+      "is_det": true,
+      "relation_type": "r_lieu",
+      "raw": "Mont DE l'Everest"
+    },
+    "r_lieu_63": {
+      "termA": "lac",
+      "termB": "genève",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Lac DE Genève"
+    },
+    "r_lieu_64": {
+      "termA": "ruines",
+      "termB": "machu",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Ruines DE Machu Picchu"
+    },
+    "r_lieu_65": {
+      "termA": "désert",
+      "termB": "namib",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Désert DU Namib"
+    },
+    "r_lieu_66": {
+      "termA": "temple",
+      "termB": "lhassa",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple DE Lhassa"
+    },
+    "r_lieu_67": {
+      "termA": "plage",
+      "termB": "bora",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Bora Bora"
+    },
+    "r_lieu_68": {
+      "termA": "cathédrale",
+      "termB": "florence",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Cathédrale DE Florence"
+    },
+    "r_lieu_69": {
+      "termA": "fjord",
+      "termB": "geiranger",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Fjord DE Geiranger"
+    },
+    "r_lieu_70": {
+      "termA": "palais",
+      "termB": "vienne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Palais DE Vienne"
+    },
+    "r_lieu_71": {
+      "termA": "îles",
+      "termB": "maldives",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Îles DES Maldives"
+    },
+    "r_lieu_72": {
+      "termA": "montagne",
+      "termB": "caucase",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Montagne DU Caucase"
+    },
+    "r_lieu_73": {
+      "termA": "rivière",
+      "termB": "amazonie",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Rivière D'Amazonie"
+    },
+    "r_lieu_74": {
+      "termA": "château",
+      "termB": "écosse",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Château D'Écosse"
+    },
+    "r_lieu_75": {
+      "termA": "parc",
+      "termB": "yosemite",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Parc DE Yosemite"
+    },
+    "r_lieu_76": {
+      "termA": "temple",
+      "termB": "borobudur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple DE Borobudur"
+    },
+    "r_lieu_77": {
+      "termA": "plage",
+      "termB": "phuket",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Phuket"
+    },
+    "r_lieu_78": {
+      "termA": "tour",
+      "termB": "tokyo",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Tour DE Tokyo"
+    },
+    "r_lieu_79": {
+      "termA": "désert",
+      "termB": "mojave",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Désert DE Mojave"
+    },
+    "r_lieu_80": {
+      "termA": "lac",
+      "termB": "titisee",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Lac DU Titisee"
+    },
+    "r_lieu_81": {
+      "termA": "cathédrale",
+      "termB": "prague",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Cathédrale DE Prague"
+    },
+    "r_lieu_82": {
+      "termA": "fjord",
+      "termB": "trolltunga",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Fjord DE Trolltunga"
+    },
+    "r_lieu_83": {
+      "termA": "palais",
+      "termB": "pékin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Palais DE Pékin"
+    },
+    "r_lieu_84": {
+      "termA": "île",
+      "termB": "capri",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Île DE Capri"
+    },
+    "r_lieu_85": {
+      "termA": "montagne",
+      "termB": "pyrénées",
+      "preposition": "des",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Montagne DES Pyrénées"
+    },
+    "r_lieu_86": {
+      "termA": "rivière",
+      "termB": "danube",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Rivière DU Danube"
+    },
+    "r_lieu_87": {
+      "termA": "château",
+      "termB": "prague",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Château DE Prague"
+    },
+    "r_lieu_88": {
+      "termA": "parc",
+      "termB": "kruger",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Parc DU Kruger"
+    },
+    "r_lieu_89": {
+      "termA": "temple",
+      "termB": "siem",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Temple DE Siem Reap"
+    },
+    "r_lieu_90": {
+      "termA": "plage",
+      "termB": "zanzibar",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Plage DE Zanzibar"
+    },
+    "r_lieu_91": {
+      "termA": "tour",
+      "termB": "séoul",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Tour DE Séoul"
+    },
+    "r_lieu_92": {
+      "termA": "désert",
+      "termB": "kalahari",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Désert DU Kalahari"
+    },
+    "r_lieu_93": {
+      "termA": "lac",
+      "termB": "lucerne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Lac DE Lucerne"
+    },
+    "r_lieu_94": {
+      "termA": "cathédrale",
+      "termB": "lisbonne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Cathédrale DE Lisbonne"
+    },
+    "r_lieu_95": {
+      "termA": "fjord",
+      "termB": "sogne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Fjord DE Sogne"
+    },
+    "r_lieu_96": {
+      "termA": "palais",
+      "termB": "jaipur",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Palais DE Jaipur"
+    },
+    "r_lieu_97": {
+      "termA": "île",
+      "termB": "hawaï",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Île DE Hawaï"
+    },
+    "r_lieu_98": {
+      "termA": "montagne",
+      "termB": "tibet",
+      "preposition": "du",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_lieu",
+      "raw": "Montagne DU Tibet"
+    }
+  }
+}

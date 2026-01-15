@@ -1,22 +1,28 @@
 [project]
 name = "ProjetJDMGenitive"
 version = "0.1.0"
-description = "Add your description here"
+description = "Genitive relation classification using JeuxDeMots"
 readme = "README.md"
 requires-python = ">=3.11"
+
 dependencies = [
     "gensim>=4.3.2",
-    "numpy<=1.28",
-    "pandas>=2.3.2",
-    "pydantic>=2.11.9",
-    "requests>=2.32.5",
-    "typer>=0.19.1",
-    "typing>=3.10.0.0",
-    "scipy<=1.11.4",
-    "matplotlib>=3.10.6",
-    "scikit-learn>=1.7.2",
-    "tqdm>=4.67.1",
-    "seaborn>=0.13.2",
-    "optuna>=4.6.0",
-    "loguru>=0.7.3",
+    "numpy>=1.26,<2.0",
+    "pandas>=2.0",
+    "pydantic>=2.6",
+    "requests>=2.31",
+    "typer>=0.12",
+    "scipy>=1.10",
+    "scikit-learn>=1.4",
+    "tqdm>=4.66",
+    "matplotlib>=3.7",
+    "seaborn>=0.13",
+    "optuna>=4.0",
+    "loguru>=0.7"
 ]
+
+[project.scripts]
+ProjetJDMGenitive = "ProjetJDMGenitive.cli:app"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

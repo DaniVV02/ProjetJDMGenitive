@@ -1,0 +1,896 @@
+{
+  "label": "r_objet_matiere",
+  "data": {
+    "r_objet_matiere_0": {
+      "termA": "cuillère",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cuillère DE bois"
+    },
+    "r_objet_matiere_1": {
+      "termA": "trône",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Trône DE fer"
+    },
+    "r_objet_matiere_2": {
+      "termA": "table",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Table D'acier"
+    },
+    "r_objet_matiere_3": {
+      "termA": "bague",
+      "termB": "or",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bague D'or"
+    },
+    "r_objet_matiere_4": {
+      "termA": "vase",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Vase DE verre"
+    },
+    "r_objet_matiere_5": {
+      "termA": "statue",
+      "termB": "marbre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Statue DE marbre"
+    },
+    "r_objet_matiere_6": {
+      "termA": "chaise",
+      "termB": "plastique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chaise DE plastique"
+    },
+    "r_objet_matiere_7": {
+      "termA": "épée",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Épée D'acier"
+    },
+    "r_objet_matiere_8": {
+      "termA": "bol",
+      "termB": "céramique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bol DE céramique"
+    },
+    "r_objet_matiere_9": {
+      "termA": "collier",
+      "termB": "argent",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Collier D'argent"
+    },
+    "r_objet_matiere_10": {
+      "termA": "armoire",
+      "termB": "chêne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Armoire DE chêne"
+    },
+    "r_objet_matiere_11": {
+      "termA": "bouteille",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bouteille DE verre"
+    },
+    "r_objet_matiere_12": {
+      "termA": "cadenas",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cadenas DE fer"
+    },
+    "r_objet_matiere_13": {
+      "termA": "cloche",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cloche DE bronze"
+    },
+    "r_objet_matiere_14": {
+      "termA": "miroir",
+      "termB": "argent",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Miroir D'argent"
+    },
+    "r_objet_matiere_15": {
+      "termA": "lampe",
+      "termB": "cuivre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Lampe DE cuivre"
+    },
+    "r_objet_matiere_16": {
+      "termA": "boîte",
+      "termB": "carton",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Boîte DE carton"
+    },
+    "r_objet_matiere_17": {
+      "termA": "tasse",
+      "termB": "porcelaine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Tasse DE porcelaine"
+    },
+    "r_objet_matiere_18": {
+      "termA": "couteau",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Couteau D'acier"
+    },
+    "r_objet_matiere_19": {
+      "termA": "bracelet",
+      "termB": "or",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bracelet D'or"
+    },
+    "r_objet_matiere_20": {
+      "termA": "plancher",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Plancher DE bois"
+    },
+    "r_objet_matiere_21": {
+      "termA": "mur",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Mur DE pierre"
+    },
+    "r_objet_matiere_22": {
+      "termA": "pendentif",
+      "termB": "jade",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Pendentif DE jade"
+    },
+    "r_objet_matiere_23": {
+      "termA": "assiette",
+      "termB": "faïence",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Assiette DE faïence"
+    },
+    "r_objet_matiere_24": {
+      "termA": "toit",
+      "termB": "tuile",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Toit DE tuile"
+    },
+    "r_objet_matiere_25": {
+      "termA": "stylo",
+      "termB": "plastique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Stylo DE plastique"
+    },
+    "r_objet_matiere_26": {
+      "termA": "bâton",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bâton DE bois"
+    },
+    "r_objet_matiere_27": {
+      "termA": "anneau",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Anneau DE fer"
+    },
+    "r_objet_matiere_28": {
+      "termA": "sculpture",
+      "termB": "granit",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Sculpture DE granit"
+    },
+    "r_objet_matiere_29": {
+      "termA": "verre",
+      "termB": "cristal",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Verre DE cristal"
+    },
+    "r_objet_matiere_30": {
+      "termA": "étagère",
+      "termB": "pin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Étagère DE pin"
+    },
+    "r_objet_matiere_31": {
+      "termA": "médaille",
+      "termB": "or",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Médaille D'or"
+    },
+    "r_objet_matiere_32": {
+      "termA": "clou",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Clou DE fer"
+    },
+    "r_objet_matiere_33": {
+      "termA": "horloge",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Horloge DE bronze"
+    },
+    "r_objet_matiere_34": {
+      "termA": "cadre",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cadre DE bois"
+    },
+    "r_objet_matiere_35": {
+      "termA": "bague",
+      "termB": "diamant",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bague DE diamant"
+    },
+    "r_objet_matiere_36": {
+      "termA": "plaque",
+      "termB": "métal",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Plaque DE métal"
+    },
+    "r_objet_matiere_37": {
+      "termA": "ceinture",
+      "termB": "cuir",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Ceinture DE cuir"
+    },
+    "r_objet_matiere_38": {
+      "termA": "porte",
+      "termB": "chêne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Porte DE chêne"
+    },
+    "r_objet_matiere_39": {
+      "termA": "vase",
+      "termB": "terre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Vase DE terre"
+    },
+    "r_objet_matiere_40": {
+      "termA": "bague",
+      "termB": "émeraude",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bague D'émeraude"
+    },
+    "r_objet_matiere_41": {
+      "termA": "banc",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Banc DE bois"
+    },
+    "r_objet_matiere_42": {
+      "termA": "chaîne",
+      "termB": "or",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chaîne D'or"
+    },
+    "r_objet_matiere_43": {
+      "termA": "fenêtre",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Fenêtre DE verre"
+    },
+    "r_objet_matiere_44": {
+      "termA": "statue",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Statue DE bronze"
+    },
+    "r_objet_matiere_45": {
+      "termA": "stylet",
+      "termB": "métal",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Stylet DE métal"
+    },
+    "r_objet_matiere_46": {
+      "termA": "tapis",
+      "termB": "laine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Tapis DE laine"
+    },
+    "r_objet_matiere_47": {
+      "termA": "écuelle",
+      "termB": "terre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Écuelle DE terre"
+    },
+    "r_objet_matiere_48": {
+      "termA": "lustre",
+      "termB": "cristal",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Lustre DE cristal"
+    },
+    "r_objet_matiere_49": {
+      "termA": "clé",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Clé DE fer"
+    },
+    "r_objet_matiere_50": {
+      "termA": "bureau",
+      "termB": "chêne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bureau DE chêne"
+    },
+    "r_objet_matiere_51": {
+      "termA": "bâche",
+      "termB": "plastique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bâche DE plastique"
+    },
+    "r_objet_matiere_52": {
+      "termA": "médallion",
+      "termB": "argent",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Médallion D'argent"
+    },
+    "r_objet_matiere_53": {
+      "termA": "poutre",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Poutre DE bois"
+    },
+    "r_objet_matiere_54": {
+      "termA": "vitrage",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Vitrage DE verre"
+    },
+    "r_objet_matiere_55": {
+      "termA": "boucle",
+      "termB": "cuivre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Boucle DE cuivre"
+    },
+    "r_objet_matiere_56": {
+      "termA": "coffre",
+      "termB": "cèdre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Coffre DE cèdre"
+    },
+    "r_objet_matiere_57": {
+      "termA": "rideau",
+      "termB": "soie",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Rideau DE soie"
+    },
+    "r_objet_matiere_58": {
+      "termA": "broche",
+      "termB": "or",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Broche D'or"
+    },
+    "r_objet_matiere_59": {
+      "termA": "mur",
+      "termB": "brique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Mur DE brique"
+    },
+    "r_objet_matiere_60": {
+      "termA": "poterie",
+      "termB": "glaise",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Poterie DE glaise"
+    },
+    "r_objet_matiere_61": {
+      "termA": "chaise",
+      "termB": "rotin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chaise DE rotin"
+    },
+    "r_objet_matiere_62": {
+      "termA": "canne",
+      "termB": "bambou",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Canne DE bambou"
+    },
+    "r_objet_matiere_63": {
+      "termA": "plafond",
+      "termB": "plâtre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Plafond DE plâtre"
+    },
+    "r_objet_matiere_64": {
+      "termA": "bracelet",
+      "termB": "perles",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bracelet DE perles"
+    },
+    "r_objet_matiere_65": {
+      "termA": "écran",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Écran DE verre"
+    },
+    "r_objet_matiere_66": {
+      "termA": "lanterne",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Lanterne DE fer"
+    },
+    "r_objet_matiere_67": {
+      "termA": "tabouret",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Tabouret DE bois"
+    },
+    "r_objet_matiere_68": {
+      "termA": "collier",
+      "termB": "jade",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Collier DE jade"
+    },
+    "r_objet_matiere_69": {
+      "termA": "vase",
+      "termB": "porcelaine",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Vase DE porcelaine"
+    },
+    "r_objet_matiere_70": {
+      "termA": "clôture",
+      "termB": "métal",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Clôture DE métal"
+    },
+    "r_objet_matiere_71": {
+      "termA": "tenture",
+      "termB": "lin",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Tenture DE lin"
+    },
+    "r_objet_matiere_72": {
+      "termA": "épingle",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Épingle D'acier"
+    },
+    "r_objet_matiere_73": {
+      "termA": "banc",
+      "termB": "pierre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Banc DE pierre"
+    },
+    "r_objet_matiere_74": {
+      "termA": "chope",
+      "termB": "grès",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chope DE grès"
+    },
+    "r_objet_matiere_75": {
+      "termA": "cadre",
+      "termB": "argent",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cadre D'argent"
+    },
+    "r_objet_matiere_76": {
+      "termA": "sol",
+      "termB": "marbre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Sol DE marbre"
+    },
+    "r_objet_matiere_77": {
+      "termA": "bougie",
+      "termB": "cire",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bougie DE cire"
+    },
+    "r_objet_matiere_78": {
+      "termA": "sangle",
+      "termB": "cuir",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Sangle DE cuir"
+    },
+    "r_objet_matiere_79": {
+      "termA": "statue",
+      "termB": "calcaire",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Statue DE calcaire"
+    },
+    "r_objet_matiere_80": {
+      "termA": "lampe",
+      "termB": "céramique",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Lampe DE céramique"
+    },
+    "r_objet_matiere_81": {
+      "termA": "chaîne",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chaîne DE fer"
+    },
+    "r_objet_matiere_82": {
+      "termA": "boîte",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Boîte DE bois"
+    },
+    "r_objet_matiere_83": {
+      "termA": "miroir",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Miroir DE bronze"
+    },
+    "r_objet_matiere_84": {
+      "termA": "assiette",
+      "termB": "verre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Assiette DE verre"
+    },
+    "r_objet_matiere_85": {
+      "termA": "poutre",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Poutre D'acier"
+    },
+    "r_objet_matiere_86": {
+      "termA": "bague",
+      "termB": "saphir",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bague DE saphir"
+    },
+    "r_objet_matiere_87": {
+      "termA": "parquet",
+      "termB": "chêne",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Parquet DE chêne"
+    },
+    "r_objet_matiere_88": {
+      "termA": "rideau",
+      "termB": "velours",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Rideau DE velours"
+    },
+    "r_objet_matiere_89": {
+      "termA": "épée",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Épée DE bronze"
+    },
+    "r_objet_matiere_90": {
+      "termA": "bol",
+      "termB": "bois",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Bol DE bois"
+    },
+    "r_objet_matiere_91": {
+      "termA": "médaille",
+      "termB": "cuivre",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Médaille DE cuivre"
+    },
+    "r_objet_matiere_92": {
+      "termA": "mur",
+      "termB": "béton",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Mur DE béton"
+    },
+    "r_objet_matiere_93": {
+      "termA": "vase",
+      "termB": "argile",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Vase D'argile"
+    },
+    "r_objet_matiere_94": {
+      "termA": "chaise",
+      "termB": "fer",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Chaise DE fer"
+    },
+    "r_objet_matiere_95": {
+      "termA": "collier",
+      "termB": "corail",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Collier DE corail"
+    },
+    "r_objet_matiere_96": {
+      "termA": "table",
+      "termB": "granite",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Table DE granite"
+    },
+    "r_objet_matiere_97": {
+      "termA": "cloche",
+      "termB": "acier",
+      "preposition": "d'",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cloche D'acier"
+    },
+    "r_objet_matiere_98": {
+      "termA": "cadenas",
+      "termB": "bronze",
+      "preposition": "de",
+      "determinant": null,
+      "is_det": false,
+      "relation_type": "r_objet_matiere",
+      "raw": "Cadenas DE bronze"
+    }
+  }
+}
