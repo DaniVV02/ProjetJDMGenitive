@@ -1,81 +1,48 @@
-# main.py
-from src.graph import SemanticGraph
-from src.preprocessor import CompoundDict 
-from src.jdm_client import JDMClient
-from src.rule_engine import RuleEngine
+from jdm.api import get_node_by_name
+from jdm.signature import build_signature
+from model.train import build_training_set
+
+from model.train import index_by_relation
+from model.predict import predict_relation
+
 
 
 def main():
     # 1. Initialisation
     print("Initialisation du système...")
+
+    # Test API JDM
+    print("Test API JDM (animal):")
+    print(get_node_by_name("animal"))
+    print("------------------------------------")
+
+    # Test signature
+    print("Signature de 'chat':")
+    sig = build_signature("chat")
+    for k, v in list(sig.items())[:10]:
+        print(k, v)
+    print("------------------------------------")
+
+    # Chargement du corpus
+    train_depict = build_training_set("data/corpus_json/r_depict.json")
+    train_matiere = build_training_set("data/corpus_json/r_objet_matiere.json")
+
+    print(f"Exemples r_depict: {len(train_depict)}")
+    print(train_depict[0]["relation"])
+    print(f"Exemples r_objet>matiere: {len(train_matiere)}")
+    print("------------------------------------")
     
-    # Chargement du dictionnaire
-    dictionary = CompoundDict()
-    # Pour le test, on ajoute manuellement, mais tu décommenteras la ligne load_from_file
-    # dictionary.load_from_file("data/mots_composes.txt") 
-    dictionary.add_compound("pomme de terre")
-    dictionary.add_compound("lait de chèvre")
-    dictionary.add_compound("petit chat")
+    # Indexation
+    all_train = train_depict + train_matiere
+    relation_index = index_by_relation(all_train)
 
-    # Création de l'instance du graphe
-    jdm = JDMClient()
-    graph = SemanticGraph()
-    engine = RuleEngine(graph)
+    # Tests de prédiction
+    print("Tests de prédiction:")
 
-    # 2. Phrase d'entrée
-    phrase = "le petit chat boit du lait de chèvre"
-    print(f"\nTraitement de la phrase : '{phrase}'")
-
-    # 3. Initialisation de la chaîne linéaire (r_succ)
-    # graph.init_from_text(phrase)
-
-    # 3. Construction du graphe avec les chemins parallèles pour les composés  
-    graph.init_from_text_with_compounds(phrase, dictionary)
-
-    # 4. Vérification des chemins parallèles (Exemple sur "du")
-    print("\n--- Vérification des chemins parallèles ---")
-    node_du = next((n for n in graph.nodes.values() if n.label == "du"), None)
-    if node_du:
-        print(f"Successeurs de '{node_du.label}':")
-        neighbors = graph.get_neighbors(node_du, "r_succ")
-        for n in neighbors:
-            print(f" -> {n.label} ({n.type})") 
-            # Ici tu verras bien "lait" ET "lait de chèvre"
+    print(predict_relation("peinture", "paysage", relation_index))
+    print(predict_relation("cuillère", "bois", relation_index))
 
 
-    # 5. Simulation de l'ajout d'infos morphosyntaxiques (POS)
-    print("\n--- Simulation : Ajout de natures (POS) ---")
-    node_chat = next((n for n in graph.nodes.values() if n.label == "chat"), None)
     
-    if node_chat:
-        # On ajoute les hypothèses de JDM
-        node_nom = graph.create_node("Nom:", type="POS", weight=50)
-        node_verbe = graph.create_node("Verbe:", type="POS", weight=20)
-        
-        graph.add_edge(node_chat, node_nom, "r_pos", weight=10)
-        graph.add_edge(node_chat, node_verbe, "r_pos", weight=5)
-        
-        print(f"Ajout de POS pour '{node_chat.label}': Nom (50) et Verbe (20)")
-
-        # Désambiguïsation (simulation d'une règle)
-        print("[Règle] Désambiguïsation : Dans ce contexte, 'chat' n'est pas un verbe.")
-        node_verbe.weight = -100 
-
-    # 6. Affichage final
-    print("\n=== ÉTAT FINAL DU GRAPHE ===")
-    print(graph)
-
-    # 3. Lancer le moteur (qui va appeler JDM et appliquer les règles)
-    print("\n--- 2e Démarrage de l'analyse ---")
-    
-    # Étape A : On demande à JDM les natures des mots
-    engine.tagger_with_jdm(jdm)
-    
-    # Étape B : On lance les règles grammaticales (GN, GV, etc.)
-    engine.run()
-
-    print("\n=== ÉTAT FINAL DU GRAPHE ===")
-    print(graph)
- 
 if __name__ == "__main__":
     main()
