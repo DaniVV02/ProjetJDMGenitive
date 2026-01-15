@@ -1,1 +1,3 @@
-# Projet TALN : Inférence sur les relations sémantiques des formes génitives (à changer si titre pas exacte)
+# Projet TALN 2 : Inférence sur les relations sémantiques pour les formes génitives 
+
+
