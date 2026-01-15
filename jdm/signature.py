@@ -1,5 +1,7 @@
 from collections import defaultdict
 from jdm.api import get_node_by_name, get_relations_from
+from jdm.cache import SIGNATURE_CACHE
+
 
 # relations JDM importantes
 TYPE_RELATIONS = {6, 36}   # marqueurs de type
@@ -15,9 +17,14 @@ def normalize(signature: dict):
 
 
 def build_signature(word: str):
+    word = word.lower()
+
+    if word in SIGNATURE_CACHE:
+        return SIGNATURE_CACHE[word]
+
     signature = defaultdict(float)
 
-    node = get_node_by_name(word.lower())
+    node = get_node_by_name(word)
     if not node:
         return signature
 
@@ -38,7 +45,8 @@ def build_signature(word: str):
             if target_name:
                 signature[target_name] += max(weight, 0)
 
-    return dict(signature)
+    SIGNATURE_CACHE[word] = dict(signature)
+    return SIGNATURE_CACHE[word]
 
 
 #{

@@ -1,1787 +1,896 @@
 {
-  "original_file": "data2/data/txt/r_own.txt",
+  "label": "r_own",
   "data": {
-    "Fusil DU soldat ": {
-      "termA": {
-        "name": "fusil",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "soldat",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_0": {
+      "termA": "fusil",
+      "termB": "soldat",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Fusil DU soldat"
     },
-    "Vélo DU cycliste ": {
-      "termA": {
-        "name": "vélo",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cycliste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_1": {
+      "termA": "vélo",
+      "termB": "cycliste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Vélo DU cycliste"
     },
-    "Livre DE l'étudiant ": {
-      "termA": {
-        "name": "livre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "étudiant",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_2": {
+      "termA": "livre",
+      "termB": "étudiant",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Livre DE l'étudiant"
     },
-    "Pinceau DE l'artiste ": {
-      "termA": {
-        "name": "pinceau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "artiste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_3": {
+      "termA": "pinceau",
+      "termB": "artiste",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Pinceau DE l'artiste"
     },
-    "Sac DE l'écolier ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "écolier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_4": {
+      "termA": "sac",
+      "termB": "écolier",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Sac DE l'écolier"
     },
-    "Camion DU chauffeur ": {
-      "termA": {
-        "name": "camion",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chauffeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_5": {
+      "termA": "camion",
+      "termB": "chauffeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Camion DU chauffeur"
     },
-    "Guitare DU musicien ": {
-      "termA": {
-        "name": "guitare",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "musicien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_6": {
+      "termA": "guitare",
+      "termB": "musicien",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Guitare DU musicien"
     },
-    "Téléphone DU cadre ": {
-      "termA": {
-        "name": "téléphone",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cadre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_7": {
+      "termA": "téléphone",
+      "termB": "cadre",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Téléphone DU cadre"
     },
-    "Couteau DU chef ": {
-      "termA": {
-        "name": "couteau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chef",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_8": {
+      "termA": "couteau",
+      "termB": "chef",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Couteau DU chef"
     },
-    "Bateau DU pêcheur ": {
-      "termA": {
-        "name": "bateau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pêcheur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_9": {
+      "termA": "bateau",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Bateau DU pêcheur"
     },
-    "Ordinateur DU programmeur ": {
-      "termA": {
-        "name": "ordinateur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "programmeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_10": {
+      "termA": "ordinateur",
+      "termB": "programmeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Ordinateur DU programmeur"
     },
-    "Balai DE la sorcière ": {
-      "termA": {
-        "name": "balai",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "sorcière",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_11": {
+      "termA": "balai",
+      "termB": "sorcière",
+      "preposition": "de",
+      "determinant": "la",
       "is_det": true,
-      "determinant": "LA"
+      "relation_type": "r_own",
+      "raw": "Balai DE la sorcière"
     },
-    "Balle DU joueur ": {
-      "termA": {
-        "name": "balle",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "joueur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_12": {
+      "termA": "balle",
+      "termB": "joueur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Balle DU joueur"
     },
-    "Appareil DU photographe ": {
-      "termA": {
-        "name": "appareil",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "photographe",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_13": {
+      "termA": "appareil",
+      "termB": "photographe",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Appareil DU photographe"
     },
-    "Chapeau DU magicien ": {
-      "termA": {
-        "name": "chapeau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "magicien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_14": {
+      "termA": "chapeau",
+      "termB": "magicien",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Chapeau DU magicien"
     },
-    "Valise DU voyageur ": {
-      "termA": {
-        "name": "valise",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "voyageur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_15": {
+      "termA": "valise",
+      "termB": "voyageur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Valise DU voyageur"
     },
-    "Plume DE l'écrivain ": {
-      "termA": {
-        "name": "plume",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "écrivain",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_16": {
+      "termA": "plume",
+      "termB": "écrivain",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Plume DE l'écrivain"
     },
-    "Cheval DU cavalier ": {
-      "termA": {
-        "name": "cheval",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cavalier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_17": {
+      "termA": "cheval",
+      "termB": "cavalier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Cheval DU cavalier"
     },
-    "Microscope DU scientifique ": {
-      "termA": {
-        "name": "microscope",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "scientifique",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_18": {
+      "termA": "microscope",
+      "termB": "scientifique",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Microscope DU scientifique"
     },
-    "Baguette DU chef d'orchestre ": {
-      "termA": {
-        "name": "baguette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "orchestre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "D'",
-      "relation_type": "r_own-1",
+    "r_own_19": {
+      "termA": "baguette",
+      "termB": "orchestre",
+      "preposition": "d'",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Baguette DU chef d'orchestre"
     },
-    "Poussette DE la mère ": {
-      "termA": {
-        "name": "poussette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "mère",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_20": {
+      "termA": "poussette",
+      "termB": "mère",
+      "preposition": "de",
+      "determinant": "la",
       "is_det": true,
-      "determinant": "LA"
+      "relation_type": "r_own",
+      "raw": "Poussette DE la mère"
     },
-    "Canne DU vieillard ": {
-      "termA": {
-        "name": "canne",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "vieillard",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_21": {
+      "termA": "canne",
+      "termB": "vieillard",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Canne DU vieillard"
     },
-    "Épée DU chevalier ": {
-      "termA": {
-        "name": "épée",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chevalier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_22": {
+      "termA": "épée",
+      "termB": "chevalier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Épée DU chevalier"
     },
-    "Sacoche DU facteur ": {
-      "termA": {
-        "name": "sacoche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "facteur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_23": {
+      "termA": "sacoche",
+      "termB": "facteur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sacoche DU facteur"
     },
-    "Planche DU surfeur ": {
-      "termA": {
-        "name": "planche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "surfeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_24": {
+      "termA": "planche",
+      "termB": "surfeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Planche DU surfeur"
     },
-    "Raquette DU tennisman ": {
-      "termA": {
-        "name": "raquette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "tennisman",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_25": {
+      "termA": "raquette",
+      "termB": "tennisman",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Raquette DU tennisman"
     },
-    "Clavier DU pianiste ": {
-      "termA": {
-        "name": "clavier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pianiste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_26": {
+      "termA": "clavier",
+      "termB": "pianiste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Clavier DU pianiste"
     },
-    "Carnet DU journaliste ": {
-      "termA": {
-        "name": "carnet",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "journaliste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_27": {
+      "termA": "carnet",
+      "termB": "journaliste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Carnet DU journaliste"
     },
-    "Stéthoscope DU médecin ": {
-      "termA": {
-        "name": "stéthoscope",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "médecin",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_28": {
+      "termA": "stéthoscope",
+      "termB": "médecin",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Stéthoscope DU médecin"
     },
-    "Bâton DU randonneur ": {
-      "termA": {
-        "name": "bâton",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "randonneur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_29": {
+      "termA": "bâton",
+      "termB": "randonneur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Bâton DU randonneur"
     },
-    "Trousse DE l'infirmière ": {
-      "termA": {
-        "name": "trousse",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "infirmière",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_30": {
+      "termA": "trousse",
+      "termB": "infirmière",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Trousse DE l'infirmière"
     },
-    "Marteau DU forgeron ": {
-      "termA": {
-        "name": "marteau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "forgeron",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_31": {
+      "termA": "marteau",
+      "termB": "forgeron",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Marteau DU forgeron"
     },
-    "Pinceau DU maquilleur ": {
-      "termA": {
-        "name": "pinceau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "maquilleur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_32": {
+      "termA": "pinceau",
+      "termB": "maquilleur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Pinceau DU maquilleur"
     },
-    "Voiture DU pilote ": {
-      "termA": {
-        "name": "voiture",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pilote",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_33": {
+      "termA": "voiture",
+      "termB": "pilote",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Voiture DU pilote"
     },
-    "Chaise DU professeur ": {
-      "termA": {
-        "name": "chaise",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "professeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_34": {
+      "termA": "chaise",
+      "termB": "professeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Chaise DU professeur"
     },
-    "Palette DU peintre ": {
-      "termA": {
-        "name": "palette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "peintre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_35": {
+      "termA": "palette",
+      "termB": "peintre",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Palette DU peintre"
     },
-    "Sac DU randonneur ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "randonneur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_36": {
+      "termA": "sac",
+      "termB": "randonneur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sac DU randonneur"
     },
-    "Filet DU pêcheur ": {
-      "termA": {
-        "name": "filet",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pêcheur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_37": {
+      "termA": "filet",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Filet DU pêcheur"
     },
-    "Téléscope DE l'astronome ": {
-      "termA": {
-        "name": "téléscope",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "astronome",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_38": {
+      "termA": "téléscope",
+      "termB": "astronome",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Téléscope DE l'astronome"
     },
-    "Casque DU motard ": {
-      "termA": {
-        "name": "casque",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "motard",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_39": {
+      "termA": "casque",
+      "termB": "motard",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Casque DU motard"
     },
-    "Arc DU chasseur ": {
-      "termA": {
-        "name": "arc",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chasseur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_40": {
+      "termA": "arc",
+      "termB": "chasseur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Arc DU chasseur"
     },
-    "Baguette DE la fée ": {
-      "termA": {
-        "name": "baguette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "fée",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_41": {
+      "termA": "baguette",
+      "termB": "fée",
+      "preposition": "de",
+      "determinant": "la",
       "is_det": true,
-      "determinant": "LA"
+      "relation_type": "r_own",
+      "raw": "Baguette DE la fée"
     },
-    "Balle DU basketteur ": {
-      "termA": {
-        "name": "balle",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "basketteur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_42": {
+      "termA": "balle",
+      "termB": "basketteur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Balle DU basketteur"
     },
-    "Costume DU danseur ": {
-      "termA": {
-        "name": "costume",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "danseur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_43": {
+      "termA": "costume",
+      "termB": "danseur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Costume DU danseur"
     },
-    "Caméra DU cinéaste ": {
-      "termA": {
-        "name": "caméra",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cinéaste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_44": {
+      "termA": "caméra",
+      "termB": "cinéaste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Caméra DU cinéaste"
     },
-    "Corde DU grimpeur ": {
-      "termA": {
-        "name": "corde",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "grimpeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_45": {
+      "termA": "corde",
+      "termB": "grimpeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Corde DU grimpeur"
     },
-    "Livre DU bibliothécaire ": {
-      "termA": {
-        "name": "livre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "bibliothécaire",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_46": {
+      "termA": "livre",
+      "termB": "bibliothécaire",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Livre DU bibliothécaire"
     },
-    "Outil DU mécanicien ": {
-      "termA": {
-        "name": "outil",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "mécanicien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_47": {
+      "termA": "outil",
+      "termB": "mécanicien",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Outil DU mécanicien"
     },
-    "Sac DE la couturière ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "couturière",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_48": {
+      "termA": "sac",
+      "termB": "couturière",
+      "preposition": "de",
+      "determinant": "la",
       "is_det": true,
-      "determinant": "LA"
+      "relation_type": "r_own",
+      "raw": "Sac DE la couturière"
     },
-    "Canne DU pêcheur ": {
-      "termA": {
-        "name": "canne",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pêcheur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_49": {
+      "termA": "canne",
+      "termB": "pêcheur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Canne DU pêcheur"
     },
-    "Poussette DU père ": {
-      "termA": {
-        "name": "poussette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "père",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_50": {
+      "termA": "poussette",
+      "termB": "père",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Poussette DU père"
     },
-    "Écharpe DE l'hivernant ": {
-      "termA": {
-        "name": "écharpe",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "hivernant",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_51": {
+      "termA": "écharpe",
+      "termB": "hivernant",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Écharpe DE l'hivernant"
     },
-    "Gant DU boxeur ": {
-      "termA": {
-        "name": "gant",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "boxeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_52": {
+      "termA": "gant",
+      "termB": "boxeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Gant DU boxeur"
     },
-    "Carte DU navigateur ": {
-      "termA": {
-        "name": "carte",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "navigateur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_53": {
+      "termA": "carte",
+      "termB": "navigateur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Carte DU navigateur"
     },
-    "Chisel DU sculpteur ": {
-      "termA": {
-        "name": "chisel",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "sculpteur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_54": {
+      "termA": "chisel",
+      "termB": "sculpteur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Chisel DU sculpteur"
     },
-    "Truelle DU maçon ": {
-      "termA": {
-        "name": "truelle",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "maçon",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_55": {
+      "termA": "truelle",
+      "termB": "maçon",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Truelle DU maçon"
     },
-    "Parapluie DU passant ": {
-      "termA": {
-        "name": "parapluie",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "passant",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_56": {
+      "termA": "parapluie",
+      "termB": "passant",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Parapluie DU passant"
     },
-    "Sacoche DU médecin ": {
-      "termA": {
-        "name": "sacoche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "médecin",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_57": {
+      "termA": "sacoche",
+      "termB": "médecin",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sacoche DU médecin"
     },
-    "Flûte DU musicien ": {
-      "termA": {
-        "name": "flûte",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "musicien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_58": {
+      "termA": "flûte",
+      "termB": "musicien",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Flûte DU musicien"
     },
-    "Planche DU skateur ": {
-      "termA": {
-        "name": "planche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "skateur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_59": {
+      "termA": "planche",
+      "termB": "skateur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Planche DU skateur"
     },
-    "Montre DU coureur ": {
-      "termA": {
-        "name": "montre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "coureur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_60": {
+      "termA": "montre",
+      "termB": "coureur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Montre DU coureur"
     },
-    "Lunettes DE l'opticien ": {
-      "termA": {
-        "name": "lunettes",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "opticien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_61": {
+      "termA": "lunettes",
+      "termB": "opticien",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Lunettes DE l'opticien"
     },
-    "Trousse DU maquilleur ": {
-      "termA": {
-        "name": "trousse",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "maquilleur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_62": {
+      "termA": "trousse",
+      "termB": "maquilleur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Trousse DU maquilleur"
     },
-    "Sac DE l'aventurier ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "aventurier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_63": {
+      "termA": "sac",
+      "termB": "aventurier",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Sac DE l'aventurier"
     },
-    "Baton DU guide ": {
-      "termA": {
-        "name": "baton",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "guide",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_64": {
+      "termA": "baton",
+      "termB": "guide",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Baton DU guide"
     },
-    "Casque DU pompier ": {
-      "termA": {
-        "name": "casque",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "pompier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_65": {
+      "termA": "casque",
+      "termB": "pompier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Casque DU pompier"
     },
-    "Bague DE la mariée ": {
-      "termA": {
-        "name": "bague",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "mariée",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_66": {
+      "termA": "bague",
+      "termB": "mariée",
+      "preposition": "de",
+      "determinant": "la",
       "is_det": true,
-      "determinant": "LA"
+      "relation_type": "r_own",
+      "raw": "Bague DE la mariée"
     },
-    "Carnet DU dessinateur ": {
-      "termA": {
-        "name": "carnet",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "dessinateur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_67": {
+      "termA": "carnet",
+      "termB": "dessinateur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Carnet DU dessinateur"
     },
-    "Chaussures DU coureur ": {
-      "termA": {
-        "name": "chaussures",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "coureur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_68": {
+      "termA": "chaussures",
+      "termB": "coureur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Chaussures DU coureur"
     },
-    "Épée DU samouraï ": {
-      "termA": {
-        "name": "épée",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "samouraï",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_69": {
+      "termA": "épée",
+      "termB": "samouraï",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Épée DU samouraï"
     },
-    "Sac DU campeur ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "campeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_70": {
+      "termA": "sac",
+      "termB": "campeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sac DU campeur"
     },
-    "Couteau DU boucher ": {
-      "termA": {
-        "name": "couteau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "boucher",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_71": {
+      "termA": "couteau",
+      "termB": "boucher",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Couteau DU boucher"
     },
-    "Appareil DU dentiste ": {
-      "termA": {
-        "name": "appareil",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "dentiste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_72": {
+      "termA": "appareil",
+      "termB": "dentiste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Appareil DU dentiste"
     },
-    "Bâton DU skieur ": {
-      "termA": {
-        "name": "bâton",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "skieur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_73": {
+      "termA": "bâton",
+      "termB": "skieur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Bâton DU skieur"
     },
-    "Filet DU gardien ": {
-      "termA": {
-        "name": "filet",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "gardien",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_74": {
+      "termA": "filet",
+      "termB": "gardien",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Filet DU gardien"
     },
-    "Pinceau DU décorateur ": {
-      "termA": {
-        "name": "pinceau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "décorateur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_75": {
+      "termA": "pinceau",
+      "termB": "décorateur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Pinceau DU décorateur"
     },
-    "Tapis DU yogi ": {
-      "termA": {
-        "name": "tapis",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "yogi",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_76": {
+      "termA": "tapis",
+      "termB": "yogi",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Tapis DU yogi"
     },
-    "Camion DU déménageur ": {
-      "termA": {
-        "name": "camion",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "déménageur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_77": {
+      "termA": "camion",
+      "termB": "déménageur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Camion DU déménageur"
     },
-    "Chaise DU directeur ": {
-      "termA": {
-        "name": "chaise",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "directeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_78": {
+      "termA": "chaise",
+      "termB": "directeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Chaise DU directeur"
     },
-    "Sacoche DU livreur ": {
-      "termA": {
-        "name": "sacoche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "livreur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_79": {
+      "termA": "sacoche",
+      "termB": "livreur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sacoche DU livreur"
     },
-    "Violon DU violoniste ": {
-      "termA": {
-        "name": "violon",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "violoniste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_80": {
+      "termA": "violon",
+      "termB": "violoniste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Violon DU violoniste"
     },
-    "Planche DU menuisier ": {
-      "termA": {
-        "name": "planche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "menuisier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_81": {
+      "termA": "planche",
+      "termB": "menuisier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Planche DU menuisier"
     },
-    "Caméra DU reporter ": {
-      "termA": {
-        "name": "caméra",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "reporter",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_82": {
+      "termA": "caméra",
+      "termB": "reporter",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Caméra DU reporter"
     },
-    "Sac DU jardinier ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "jardinier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_83": {
+      "termA": "sac",
+      "termB": "jardinier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sac DU jardinier"
     },
-    "Casque DU cycliste ": {
-      "termA": {
-        "name": "casque",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cycliste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_84": {
+      "termA": "casque",
+      "termB": "cycliste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Casque DU cycliste"
     },
-    "Balle DU golfeur ": {
-      "termA": {
-        "name": "balle",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "golfeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_85": {
+      "termA": "balle",
+      "termB": "golfeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Balle DU golfeur"
     },
-    "Pinceau DU calligraphe ": {
-      "termA": {
-        "name": "pinceau",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "calligraphe",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_86": {
+      "termA": "pinceau",
+      "termB": "calligraphe",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Pinceau DU calligraphe"
     },
-    "Corde DU marin ": {
-      "termA": {
-        "name": "corde",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "marin",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_87": {
+      "termA": "corde",
+      "termB": "marin",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Corde DU marin"
     },
-    "Livre DU chercheur ": {
-      "termA": {
-        "name": "livre",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chercheur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_88": {
+      "termA": "livre",
+      "termB": "chercheur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Livre DU chercheur"
     },
-    "Outil DU bricoleur ": {
-      "termA": {
-        "name": "outil",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "bricoleur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_89": {
+      "termA": "outil",
+      "termB": "bricoleur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Outil DU bricoleur"
     },
-    "Sac DE l'étudiante ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "étudiante",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DE",
-      "relation_type": "r_own-1",
+    "r_own_90": {
+      "termA": "sac",
+      "termB": "étudiante",
+      "preposition": "de",
+      "determinant": "l'",
       "is_det": true,
-      "determinant": "L'"
+      "relation_type": "r_own",
+      "raw": "Sac DE l'étudiante"
     },
-    "Baton DU chef ": {
-      "termA": {
-        "name": "baton",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "chef",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_91": {
+      "termA": "baton",
+      "termB": "chef",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Baton DU chef"
     },
-    "Raquette DU badminton ": {
-      "termA": {
-        "name": "raquette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "badminton",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_92": {
+      "termA": "raquette",
+      "termB": "badminton",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Raquette DU badminton"
     },
-    "Trousse DU coiffeur ": {
-      "termA": {
-        "name": "trousse",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "coiffeur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_93": {
+      "termA": "trousse",
+      "termB": "coiffeur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Trousse DU coiffeur"
     },
-    "Palette DU cuisinier ": {
-      "termA": {
-        "name": "palette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "cuisinier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_94": {
+      "termA": "palette",
+      "termB": "cuisinier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Palette DU cuisinier"
     },
-    "Planche DU charpentier ": {
-      "termA": {
-        "name": "planche",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "charpentier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_95": {
+      "termA": "planche",
+      "termB": "charpentier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Planche DU charpentier"
     },
-    "Caméra DU vidéaste ": {
-      "termA": {
-        "name": "caméra",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "vidéaste",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_96": {
+      "termA": "caméra",
+      "termB": "vidéaste",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Caméra DU vidéaste"
     },
-    "Sac DU voyageur ": {
-      "termA": {
-        "name": "sac",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "voyageur",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_97": {
+      "termA": "sac",
+      "termB": "voyageur",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Sac DU voyageur"
     },
-    "Baguette DU sorcier ": {
-      "termA": {
-        "name": "baguette",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "termB": {
-        "name": "sorcier",
-        "r_isa": [],
-        "r_raff_sem": [],
-        "r_pos": []
-      },
-      "prep": "DU",
-      "relation_type": "r_own-1",
+    "r_own_98": {
+      "termA": "baguette",
+      "termB": "sorcier",
+      "preposition": "du",
+      "determinant": null,
       "is_det": false,
-      "determinant": null
+      "relation_type": "r_own",
+      "raw": "Baguette DU sorcier"
     }
   }
 }

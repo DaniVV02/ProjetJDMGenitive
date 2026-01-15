@@ -1,14 +1,25 @@
 # jdm/api.py
 import requests
+from jdm.cache import NODE_CACHE
+
 
 BASE_URL = "https://jdm-api.demo.lirmm.fr/v0"
 
+
 def get_node_by_name(word: str):
+    word = word.lower()
+
+    if word in NODE_CACHE:
+        return NODE_CACHE[word]
+
     url = f"{BASE_URL}/node_by_name/{word}"
     r = requests.get(url)
     if r.status_code != 200:
         return None
-    return r.json()
+
+    data = r.json()
+    NODE_CACHE[word] = data
+    return data
 
 
 def get_relations_from(node_id: int):
@@ -17,3 +28,4 @@ def get_relations_from(node_id: int):
     if r.status_code != 200:
         return None
     return r.json()
+
