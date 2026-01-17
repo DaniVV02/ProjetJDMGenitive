@@ -1,48 +1,67 @@
+import os
+
 from jdm.api import get_node_by_name
 from jdm.signature import build_signature
-from model.train import build_training_set
+from data.cache import save_all_caches
 
-from model.train import index_by_relation
+from model.train import build_training_set, index_by_relation
 from model.predict import predict_relation
 
 
-
 def main():
-    # 1. Initialisation
-    print("Initialisation du système...")
+    print("Initialisation du système...\n")
 
-    # Test API JDM
+    # =========================
+    # 1. Test API JDM
+    # =========================
     print("Test API JDM (animal):")
     print(get_node_by_name("animal"))
     print("------------------------------------")
 
-    # Test signature
-    print("Signature de 'chat':")
+    # =========================
+    # 2. Test signature
+    # =========================
+    print("Signature de 'chat' (extrait):")
     sig = build_signature("chat")
     for k, v in list(sig.items())[:10]:
         print(k, v)
     print("------------------------------------")
 
-    # Chargement du corpus
-    train_depict = build_training_set("data/corpus_json/r_depict.json")
-    train_matiere = build_training_set("data/corpus_json/r_objet_matiere.json")
+    # =========================
+    # 3. Chargement COMPLET du corpus
+    # =========================
+    all_examples = []
 
-    print(f"Exemples r_depict: {len(train_depict)}")
-    print(train_depict[0]["relation"])
-    print(f"Exemples r_objet>matiere: {len(train_matiere)}")
+    for file in os.listdir("data/corpus_json"):
+        if file.endswith(".json"):
+            path = os.path.join("data/corpus_json", file)
+            all_examples.extend(build_training_set(path))
+
+    print(f"Nombre total d'exemples dans le corpus : {len(all_examples)}")
     print("------------------------------------")
-    
-    # Indexation
-    all_train = train_depict + train_matiere
-    relation_index = index_by_relation(all_train)
 
-    # Tests de prédiction
+    # =========================
+    # 4. Entraînement FINAL du modèle
+    # =========================
+    relation_index = index_by_relation(all_examples)
+    print("Modèle entraîné sur tout le corpus.")
+    print("------------------------------------")
+
+    # =========================
+    # 5. Tests simples
+    # =========================
     print("Tests de prédiction:")
+    print("peinture / paysage →",
+          predict_relation("peinture", "paysage", relation_index))
+    print("cuillère / bois →",
+          predict_relation("cuillère", "bois", relation_index))
 
-    print(predict_relation("peinture", "paysage", relation_index))
-    print(predict_relation("cuillère", "bois", relation_index))
+    # =========================
+    # 6. Sauvegarde du cache persistant
+    # =========================
+    save_all_caches()
+    print("Cache sauvegardé.")
 
 
-    
 if __name__ == "__main__":
     main()

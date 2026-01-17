@@ -1,6 +1,6 @@
 from collections import defaultdict
 from jdm.api import get_node_by_name, get_relations_from
-from jdm.cache import SIGNATURE_CACHE
+from data.cache import SIGNATURE_CACHE
 
 
 # relations JDM importantes
@@ -20,6 +20,7 @@ def build_signature(word: str):
     word = word.lower()
 
     if word in SIGNATURE_CACHE:
+        print(f"[CACHE HIT - persistent] {word}")
         return SIGNATURE_CACHE[word]
 
     signature = defaultdict(float)
@@ -47,6 +48,19 @@ def build_signature(word: str):
 
     SIGNATURE_CACHE[word] = dict(signature)
     return SIGNATURE_CACHE[word]
+
+def build_relation_signature(sigA: dict, sigB: dict, max_features=50):
+    rel_sig = {}
+
+    topA = sorted(sigA.items(), key=lambda x: -x[1])[:max_features]
+    topB = sorted(sigB.items(), key=lambda x: -x[1])[:max_features]
+
+    for fa, wa in topA:
+        for fb, wb in topB:
+            rel_sig[(fa, fb)] = wa * wb
+
+    return rel_sig
+
 
 
 #{

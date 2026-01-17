@@ -1,6 +1,6 @@
 # jdm/api.py
 import requests
-from jdm.cache import NODE_CACHE
+from data.cache import NODE_CACHE
 
 
 BASE_URL = "https://jdm-api.demo.lirmm.fr/v0"

@@ -1,3 +1,0 @@
-NODE_CACHE = {}
-SIGNATURE_CACHE = {}
-
